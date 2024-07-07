@@ -92,28 +92,35 @@ server <- function(input, output, session) {
     data <- dataset()
     req(data, input$variable, input$plot_type)
     
-    p <- ggplot(data, aes_string(x = input$variable)) +
-      labs(title = paste("Gráfico de", input$variable),
-           x = input$variable, y = "Conteo") +
-      theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotar las etiquetas del eje X
-    
-    if (input$plot_type == "bar") {
-      p <- p + geom_bar()
-    } else if (input$plot_type == "line") {
-      p <- p + geom_line()
-    } else if (input$plot_type == "point") {
-      p <- p + geom_point()
-    } else if (input$plot_type == "boxplot") {
-      p <- p + geom_boxplot()
-    } else if (input$plot_type == "violin") {
-      p <- p + geom_violin()
-    } else if (input$plot_type == "hist") {
-      p <- p + geom_histogram()
-    } else if (input$plot_type == "density") {
-      p <- p + geom_density()
-    }
-    
-    print(p)
+    # Verificar si el tipo de gráfico es compatible con los datos seleccionados
+    tryCatch({
+      p <- ggplot(data, aes_string(x = input$variable)) +
+        labs(title = paste("Gráfico de", input$variable),
+             x = input$variable, y = "Conteo") +
+        theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotar las etiquetas del eje X
+      
+      if (input$plot_type == "bar") {
+        p <- p + geom_bar()
+      } else if (input$plot_type == "line") {
+        p <- p + geom_line()
+      } else if (input$plot_type == "point") {
+        p <- p + geom_point()
+      } else if (input$plot_type == "boxplot") {
+        p <- p + geom_boxplot()
+      } else if (input$plot_type == "violin") {
+        p <- p + geom_violin()
+      } else if (input$plot_type == "hist") {
+        p <- p + geom_histogram()
+      } else if (input$plot_type == "density") {
+        p <- p + geom_density()
+      } else {
+        stop("Tipo de gráfico no soportado para los datos seleccionados.")
+      }
+      
+      print(p)
+    }, error = function(e) {
+      showNotification("Error: Tipo de gráfico no soportado para los datos seleccionados.", type = "error")
+    })
   }, height = 500, width = 800) # Ajustar el tamaño del gráfico
   
   # Generación de informe PDF
@@ -130,43 +137,49 @@ server <- function(input, output, session) {
       # Generar un gráfico de acuerdo a los datos seleccionados
       data <- dataset()
       req(data, input$variable, input$plot_type)
-      if (input$plot_type == "bar") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_bar() +
-          labs(title = paste("Gráfico de Barras de", input$variable),
-               x = input$variable, y = "Conteo")
-      } else if (input$plot_type == "line") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_line() +
-          labs(title = paste("Gráfico de Líneas de", input$variable),
-               x = input$variable, y = "Conteo")
-      } else if (input$plot_type == "point") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_point() +
-          labs(title = paste("Gráfico de Puntos de", input$variable),
-               x = input$variable, y = "Conteo")
-      } else if (input$plot_type == "boxplot") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_boxplot() +
-          labs(title = paste("Gráfico de Cajas de", input$variable),
-               x = input$variable, y = "Conteo")
-      } else if (input$plot_type == "violin") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_violin() +
-          labs(title = paste("Gráfico de Violín de", input$variable),
-               x = input$variable, y = "Conteo")
-      } else if (input$plot_type == "hist") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_histogram() +
-          labs(title = paste("Histograma de", input$variable),
-               x = input$variable, y = "Frecuencia")
-      } else if (input$plot_type == "density") {
-        p <- ggplot(data, aes_string(x = input$variable)) +
-          geom_density() +
-          labs(title = paste("Gráfico de Densidad de", input$variable),
-               x = input$variable, y = "Densidad")
-      }
-      print(p)
+      tryCatch({
+        if (input$plot_type == "bar") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_bar() +
+            labs(title = paste("Gráfico de Barras de", input$variable),
+                 x = input$variable, y = "Conteo")
+        } else if (input$plot_type == "line") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_line() +
+            labs(title = paste("Gráfico de Líneas de", input$variable),
+                 x = input$variable, y = "Conteo")
+        } else if (input$plot_type == "point") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_point() +
+            labs(title = paste("Gráfico de Puntos de", input$variable),
+                 x = input$variable, y = "Conteo")
+        } else if (input$plot_type == "boxplot") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_boxplot() +
+            labs(title = paste("Gráfico de Cajas de", input$variable),
+                 x = input$variable, y = "Conteo")
+        } else if (input$plot_type == "violin") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_violin() +
+            labs(title = paste("Gráfico de Violín de", input$variable),
+                 x = input$variable, y = "Conteo")
+        } else if (input$plot_type == "hist") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_histogram() +
+            labs(title = paste("Histograma de", input$variable),
+                 x = input$variable, y = "Frecuencia")
+        } else if (input$plot_type == "density") {
+          p <- ggplot(data, aes_string(x = input$variable)) +
+            geom_density() +
+            labs(title = paste("Gráfico de Densidad de", input$variable),
+                 x = input$variable, y = "Densidad")
+        } else {
+          stop("Tipo de gráfico no soportado para los datos seleccionados.")
+        }
+        print(p)
+      }, error = function(e) {
+        cat("Error: Tipo de gráfico no soportado para los datos seleccionados.\n")
+      })
       dev.off()
     }
   )
