@@ -17,8 +17,8 @@ ui <- fluidPage(
                  uiOutput("date_ui"), # Selector de rango de fechas dinámico
                  selectInput("variable", "Seleccione variable a visualizar:", choices = NULL),
                  selectInput("plot_type", "Seleccione tipo de gráfico:", 
-                             choices = list("Barras" = "bar", "Líneas" = "line", "Puntos" = "point")),
-                ),
+                             choices = list("Barras" = "bar", "Líneas" = "line", "Puntos" = "point", "Cajas" = "boxplot", "Violin" = "violin", "Histograma" = "hist", "Densidad" = "density")),
+               ),
                mainPanel(
                  tabsetPanel(
                    tabPanel("Gráficos", plotOutput("plot")),
@@ -103,9 +103,17 @@ server <- function(input, output, session) {
       p <- p + geom_line()
     } else if (input$plot_type == "point") {
       p <- p + geom_point()
+    } else if (input$plot_type == "boxplot") {
+      p <- p + geom_boxplot()
+    } else if (input$plot_type == "violin") {
+      p <- p + geom_violin()
+    } else if (input$plot_type == "hist") {
+      p <- p + geom_histogram()
+    } else if (input$plot_type == "density") {
+      p <- p + geom_density()
     }
     
-    p
+    print(p)
   }, height = 500, width = 800) # Ajustar el tamaño del gráfico
   
   # Generación de informe PDF
@@ -137,6 +145,26 @@ server <- function(input, output, session) {
           geom_point() +
           labs(title = paste("Gráfico de Puntos de", input$variable),
                x = input$variable, y = "Conteo")
+      } else if (input$plot_type == "boxplot") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_boxplot() +
+          labs(title = paste("Gráfico de Cajas de", input$variable),
+               x = input$variable, y = "Conteo")
+      } else if (input$plot_type == "violin") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_violin() +
+          labs(title = paste("Gráfico de Violín de", input$variable),
+               x = input$variable, y = "Conteo")
+      } else if (input$plot_type == "hist") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_histogram() +
+          labs(title = paste("Histograma de", input$variable),
+               x = input$variable, y = "Frecuencia")
+      } else if (input$plot_type == "density") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_density() +
+          labs(title = paste("Gráfico de Densidad de", input$variable),
+               x = input$variable, y = "Densidad")
       }
       print(p)
       dev.off()
