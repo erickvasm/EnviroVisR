@@ -33,9 +33,10 @@ Visita la [plataforma de EnviroVisr](https://envirovisr.shinyapps.io/envirovisr/
 ## Instalación y Uso
 Para utilizar localmente:
 1. Clona este repositorio.
-2. Abre `app.R` en RStudio o en DataSpell de JetBrain.
-3. Instala los paquetes necesarios si es necesario (`shiny`, `leaflet`, `ggplot2`, etc.).
-4. Ejecuta la aplicación.
+2. Versión R: +4.3.2
+3. Abre `app.R` en RStudio o en DataSpell de JetBrain.
+4. Instala los paquetes necesarios si es necesario (`shiny`, `leaflet`, `ggplot2`, etc.).
+5. Ejecuta la aplicación.
 
 ## Contribución
 ¡Las contribuciones son bienvenidas! Si deseas mejorar EnviroVisr, por favor envía un pull request.
