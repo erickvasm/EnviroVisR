@@ -3,28 +3,28 @@ library(ggplot2)
 library(dplyr)
 library(leaflet)
 library(shinythemes)
+library(pdftools)  # Librería para generar contenido en el PDF
 
 # UI de la aplicación Shiny
 ui <- fluidPage(
   theme = shinytheme("superhero"),
-  titlePanel("Plataforma de Monitoreo Ambiental"),
   navbarPage(
     title = "Plataforma de Monitoreo Ambiental",
     tabPanel("Inicio",
              sidebarLayout(
                sidebarPanel(
-                 fileInput("file", "Cargar archivo CSV:", accept = ".csv"),
-                 dateRangeInput("date_range", "Seleccione rango de fechas:", start = NULL, end = NULL),
+                 fileInput("file", "Cargar archivo CSV:", accept = c(".csv")),
+                 uiOutput("date_ui"), # Selector de rango de fechas dinámico
                  selectInput("variable", "Seleccione variable a visualizar:", choices = NULL),
-                 selectInput("ubicacion", "Seleccione ubicación geográfica:", choices = NULL)
-               ),
+                 selectInput("plot_type", "Seleccione tipo de gráfico:", 
+                             choices = list("Barras" = "bar", "Líneas" = "line", "Puntos" = "point")),
+                ),
                mainPanel(
                  tabsetPanel(
                    tabPanel("Gráficos", plotOutput("plot")),
-                   tabPanel("Mapas", leafletOutput("map"))
                  ),
-                 downloadButton("download_data", "Descargar Datos"),
-                 downloadButton("download_report", "Generar Informe PDF")
+                 br(), br(), br(), br(), br(),
+                 downloadButton("download_report", "Generar PDF")
                )
              )
     ),
@@ -43,14 +43,14 @@ ui <- fluidPage(
     )
   ),
   tags$footer(
-    style = "text-align:center; padding:10px; background:#4e5d6c; position:fixed; bottom:0; width:100%",
+    style = "text-align:center; padding:10px; background:#4e5d6c; position:fixed; bottom:0; width:97%",
     "Desarrollado por Erick Vasquez, Luis Amaya, Jose"
   )
 )
 
 # Server de la aplicación Shiny
 server <- function(input, output, session) {
-
+  
   # Cargar datos desde archivo CSV
   dataset <- reactive({
     req(input$file)
@@ -63,7 +63,7 @@ server <- function(input, output, session) {
     )
     return(data)
   })
-
+  
   # Actualizar opciones de variable según datos cargados
   observe({
     data <- dataset()
@@ -73,47 +73,72 @@ server <- function(input, output, session) {
       updateSelectInput(session, "ubicacion", choices = unique(data$ubicacion))
     }
   })
-
-  # Generación de gráfico dinámico según selección de variables y ubicación
-  output$plot <- renderPlot({
-    data <- dataset()
-    req(data, input$variable)
-    ggplot(data, aes_string(x = input$variable)) +
-      geom_bar() +
-      labs(title = paste("Gráfico de", input$variable),
-           x = input$variable, y = "Conteo")
-  })
-
-  # Generación de mapa interactivo
-  output$map <- renderLeaflet({
+  
+  # Actualizar el rango de fechas basado en los datos disponibles
+  output$date_ui <- renderUI({
     data <- dataset()
     req(data)
-    leaflet(data) %>%
-      addTiles() %>%
-      setView(lng = -70, lat = -33, zoom = 5) %>%
-      addMarkers(lng = ~longitud, lat = ~latitud, popup = ~ubicacion)
-  })
-
-  # Descarga de datos filtrados
-  output$download_data <- downloadHandler(
-    filename = function() {
-      paste0("datos_filtrados_", Sys.Date(), ".csv")
-    },
-    content = function(file) {
-      data <- dataset()
-      req(data, input$date_range)
-      filtered_data <- filter(data, as.Date(fecha) >= input$date_range[1] & as.Date(fecha) <= input$date_range[2])
-      write.csv(filtered_data, file, row.names = FALSE)
+    if ("fecha" %in% names(data)) {
+      dateRangeInput("date_range", "Seleccione rango de fechas:",
+                     start = min(as.Date(data$fecha, format="%Y-%m-%d")),
+                     end = max(as.Date(data$fecha, format="%Y-%m-%d")),
+                     min = min(as.Date(data$fecha, format="%Y-%m-%d")),
+                     max = max(as.Date(data$fecha, format="%Y-%m-%d")))
     }
-  )
-
+  })
+  
+  # Generación de gráfico dinámico según selección de variables y tipo de gráfico
+  output$plot <- renderPlot({
+    data <- dataset()
+    req(data, input$variable, input$plot_type)
+    
+    p <- ggplot(data, aes_string(x = input$variable)) +
+      labs(title = paste("Gráfico de", input$variable),
+           x = input$variable, y = "Conteo") +
+      theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotar las etiquetas del eje X
+    
+    if (input$plot_type == "bar") {
+      p <- p + geom_bar()
+    } else if (input$plot_type == "line") {
+      p <- p + geom_line()
+    } else if (input$plot_type == "point") {
+      p <- p + geom_point()
+    }
+    
+    p
+  }, height = 500, width = 800) # Ajustar el tamaño del gráfico
+  
   # Generación de informe PDF
   output$download_report <- downloadHandler(
     filename = function() {
-      paste0("informe_", Sys.Date(), ".pdf")
+      paste("informe_", Sys.Date(), ".pdf", sep = "")
     },
     content = function(file) {
+      # Generar contenido para el PDF
       pdf(file)
+      cat("Informe de Datos Ambientales\n\n")
+      cat("Este informe contiene los datos y gráficos generados desde la plataforma de monitoreo ambiental.\n\n")
+      
+      # Generar un gráfico de acuerdo a los datos seleccionados
+      data <- dataset()
+      req(data, input$variable, input$plot_type)
+      if (input$plot_type == "bar") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_bar() +
+          labs(title = paste("Gráfico de Barras de", input$variable),
+               x = input$variable, y = "Conteo")
+      } else if (input$plot_type == "line") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_line() +
+          labs(title = paste("Gráfico de Líneas de", input$variable),
+               x = input$variable, y = "Conteo")
+      } else if (input$plot_type == "point") {
+        p <- ggplot(data, aes_string(x = input$variable)) +
+          geom_point() +
+          labs(title = paste("Gráfico de Puntos de", input$variable),
+               x = input$variable, y = "Conteo")
+      }
+      print(p)
       dev.off()
     }
   )
