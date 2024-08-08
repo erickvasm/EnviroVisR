@@ -1,0 +1,1973 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Costa Rica,CRI,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,18110
+Costa Rica,CRI,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,17860
+Costa Rica,CRI,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,17760
+Costa Rica,CRI,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,17825
+Costa Rica,CRI,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,17810
+Costa Rica,CRI,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,17770
+Costa Rica,CRI,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,17915
+Costa Rica,CRI,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,17850
+Costa Rica,CRI,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,18010
+Costa Rica,CRI,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,18120
+Costa Rica,CRI,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,18190
+Costa Rica,CRI,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,18190
+Costa Rica,CRI,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,18160
+Costa Rica,CRI,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,17930
+Costa Rica,CRI,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,18000
+Costa Rica,CRI,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,18150
+Costa Rica,CRI,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,18050
+Costa Rica,CRI,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,18220
+Costa Rica,CRI,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,18290
+Costa Rica,CRI,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,18260
+Costa Rica,CRI,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,18330
+Costa Rica,CRI,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,18400
+Costa Rica,CRI,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,18880
+Costa Rica,CRI,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,19150
+Costa Rica,CRI,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,19530
+Costa Rica,CRI,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,19950
+Costa Rica,CRI,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,20480
+Costa Rica,CRI,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,20950
+Costa Rica,CRI,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,21130
+Costa Rica,CRI,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,21600
+Costa Rica,CRI,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,22036.18
+Costa Rica,CRI,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,21986
+Costa Rica,CRI,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,23780
+Costa Rica,CRI,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,24630
+Costa Rica,CRI,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,25390
+Costa Rica,CRI,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,26120
+Costa Rica,CRI,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,26810
+Costa Rica,CRI,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,27480
+Costa Rica,CRI,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,26820
+Costa Rica,CRI,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,26790
+Costa Rica,CRI,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,25990
+Costa Rica,CRI,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,25160
+Costa Rica,CRI,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,24430
+Costa Rica,CRI,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,23600
+Costa Rica,CRI,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,22870
+Costa Rica,CRI,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,22050
+Costa Rica,CRI,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,21220
+Costa Rica,CRI,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,20480
+Costa Rica,CRI,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,20480
+Costa Rica,CRI,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,18870
+Costa Rica,CRI,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,18870
+Costa Rica,CRI,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,18560
+Costa Rica,CRI,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,17900
+Costa Rica,CRI,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,17160
+Costa Rica,CRI,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,16360
+Costa Rica,CRI,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,16350
+Costa Rica,CRI,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,15550
+Costa Rica,CRI,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,14850
+Costa Rica,CRI,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,14200
+Costa Rica,CRI,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,14100
+Costa Rica,CRI,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,13950
+Costa Rica,CRI,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.4680767724246
+Costa Rica,CRI,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.9784567175872
+Costa Rica,CRI,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.7826086956522
+Costa Rica,CRI,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.9099099099099
+Costa Rica,CRI,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.8805327066197
+Costa Rica,CRI,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.8021934978457
+Costa Rica,CRI,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.0861731296514
+Costa Rica,CRI,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.9588719153937
+Costa Rica,CRI,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.2722287504896
+Costa Rica,CRI,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.4876615746181
+Costa Rica,CRI,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.6247551899726
+Costa Rica,CRI,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.6247551899726
+Costa Rica,CRI,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.5660007833921
+Costa Rica,CRI,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.1155503329416
+Costa Rica,CRI,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.2526439482961
+Costa Rica,CRI,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.5464159811986
+Costa Rica,CRI,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.3505679592636
+Costa Rica,CRI,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.6835095965531
+Costa Rica,CRI,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.8206032119076
+Costa Rica,CRI,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.7618488053271
+Costa Rica,CRI,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.8989424206815
+Costa Rica,CRI,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.036036036036
+Costa Rica,CRI,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.9761065413239
+Costa Rica,CRI,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,37.5048962005484
+Costa Rica,CRI,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.2491186839013
+Costa Rica,CRI,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.0716803760282
+Costa Rica,CRI,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.1096748922836
+Costa Rica,CRI,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.030160595378
+Costa Rica,CRI,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.382687034861
+Costa Rica,CRI,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.3031727379554
+Costa Rica,CRI,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.1574226400313
+Costa Rica,CRI,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.0591461026244
+Costa Rica,CRI,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,46.5726596161379
+Costa Rica,CRI,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,48.2373678025852
+Costa Rica,CRI,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,49.725812769291
+Costa Rica,CRI,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.1555033294164
+Costa Rica,CRI,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,52.5068546807677
+Costa Rica,CRI,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.8190364277321
+Costa Rica,CRI,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,52.5264394829612
+Costa Rica,CRI,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,52.4676850763807
+Costa Rica,CRI,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,50.9009009009009
+Costa Rica,CRI,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,49.2753623188406
+Costa Rica,CRI,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,47.8456717587152
+Costa Rica,CRI,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,46.2201331766549
+Costa Rica,CRI,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,44.7904426165296
+Costa Rica,CRI,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.1844888366628
+Costa Rica,CRI,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.5589502546024
+Costa Rica,CRI,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.1096748922836
+Costa Rica,CRI,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.1096748922836
+Costa Rica,CRI,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.9565217391304
+Costa Rica,CRI,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.9565217391304
+Costa Rica,CRI,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.349392871132
+Costa Rica,CRI,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,35.0567959263611
+Costa Rica,CRI,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,33.6075205640423
+Costa Rica,CRI,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.0407363885625
+Costa Rica,CRI,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.021151586369
+Costa Rica,CRI,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,30.4543674108891
+Costa Rica,CRI,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,29.0834312573443
+Costa Rica,CRI,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.8104191147669
+Costa Rica,CRI,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.614571092832
+Costa Rica,CRI,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3207990599295
+Costa Rica,CRI,2021,Arable land (% of land area),AG.LND.ARBL.ZS,4.75910693301998
+Costa Rica,CRI,2020,Arable land (% of land area),AG.LND.ARBL.ZS,4.75910693301998
+Costa Rica,CRI,2019,Arable land (% of land area),AG.LND.ARBL.ZS,4.75910693301998
+Costa Rica,CRI,2018,Arable land (% of land area),AG.LND.ARBL.ZS,4.94516255385821
+Costa Rica,CRI,2017,Arable land (% of land area),AG.LND.ARBL.ZS,4.95495495495495
+Costa Rica,CRI,2016,Arable land (% of land area),AG.LND.ARBL.ZS,4.9647473560517
+Costa Rica,CRI,2015,Arable land (% of land area),AG.LND.ARBL.ZS,4.9647473560517
+Costa Rica,CRI,2014,Arable land (% of land area),AG.LND.ARBL.ZS,4.5436741088915
+Costa Rica,CRI,2013,Arable land (% of land area),AG.LND.ARBL.ZS,4.5436741088915
+Costa Rica,CRI,2012,Arable land (% of land area),AG.LND.ARBL.ZS,4.5436741088915
+Costa Rica,CRI,2011,Arable land (% of land area),AG.LND.ARBL.ZS,4.5436741088915
+Costa Rica,CRI,2010,Arable land (% of land area),AG.LND.ARBL.ZS,4.40658049353701
+Costa Rica,CRI,2009,Arable land (% of land area),AG.LND.ARBL.ZS,4.30865648256953
+Costa Rica,CRI,2008,Arable land (% of land area),AG.LND.ARBL.ZS,3.91696043869957
+Costa Rica,CRI,2007,Arable land (% of land area),AG.LND.ARBL.ZS,3.91696043869957
+Costa Rica,CRI,2006,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,2005,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,2004,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,2003,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,2002,Arable land (% of land area),AG.LND.ARBL.ZS,3.91696043869957
+Costa Rica,CRI,2001,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,2000,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,1999,Arable land (% of land area),AG.LND.ARBL.ZS,4.30865648256953
+Costa Rica,CRI,1998,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,1997,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,1996,Arable land (% of land area),AG.LND.ARBL.ZS,4.11280846063455
+Costa Rica,CRI,1995,Arable land (% of land area),AG.LND.ARBL.ZS,4.30865648256953
+Costa Rica,CRI,1994,Arable land (% of land area),AG.LND.ARBL.ZS,4.5045045045045
+Costa Rica,CRI,1993,Arable land (% of land area),AG.LND.ARBL.ZS,4.5045045045045
+Costa Rica,CRI,1992,Arable land (% of land area),AG.LND.ARBL.ZS,4.89620054837446
+Costa Rica,CRI,1991,Arable land (% of land area),AG.LND.ARBL.ZS,5.09204857030944
+Costa Rica,CRI,1990,Arable land (% of land area),AG.LND.ARBL.ZS,5.09204857030944
+Costa Rica,CRI,1989,Arable land (% of land area),AG.LND.ARBL.ZS,5.09204857030944
+Costa Rica,CRI,1988,Arable land (% of land area),AG.LND.ARBL.ZS,5.4837446141794
+Costa Rica,CRI,1987,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1986,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1985,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1984,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1983,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1982,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1981,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1980,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1979,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1978,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1977,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1976,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1975,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1974,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1973,Arable land (% of land area),AG.LND.ARBL.ZS,5.54249902075989
+Costa Rica,CRI,1972,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1971,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1970,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1969,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1968,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1967,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1966,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1965,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1964,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1963,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1962,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,1961,Arable land (% of land area),AG.LND.ARBL.ZS,5.58166862514689
+Costa Rica,CRI,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1473.33104242
+Costa Rica,CRI,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1480.48586368
+Costa Rica,CRI,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,1483.46228481
+Costa Rica,CRI,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,2.87307375172397
+Costa Rica,CRI,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,2.88702603302785
+Costa Rica,CRI,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,2.89283021224848
+Costa Rica,CRI,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,27.0027099994
+Costa Rica,CRI,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,19.8478887368
+Costa Rica,CRI,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,16.8714676041
+Costa Rica,CRI,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0526567180701367
+Costa Rica,CRI,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0387044367592605
+Costa Rica,CRI,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0329002575325755
+Costa Rica,CRI,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,2.92573046979411
+Costa Rica,CRI,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,2.92573046978711
+Costa Rica,CRI,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,2.92573046978105
+Costa Rica,CRI,2021,Forest area (sq. km),AG.LND.FRST.K2,30512.4
+Costa Rica,CRI,2020,Forest area (sq. km),AG.LND.FRST.K2,30348.7
+Costa Rica,CRI,2019,Forest area (sq. km),AG.LND.FRST.K2,30185
+Costa Rica,CRI,2018,Forest area (sq. km),AG.LND.FRST.K2,30021.3
+Costa Rica,CRI,2017,Forest area (sq. km),AG.LND.FRST.K2,29857.7
+Costa Rica,CRI,2016,Forest area (sq. km),AG.LND.FRST.K2,29694
+Costa Rica,CRI,2015,Forest area (sq. km),AG.LND.FRST.K2,29530.3
+Costa Rica,CRI,2014,Forest area (sq. km),AG.LND.FRST.K2,29366.64
+Costa Rica,CRI,2013,Forest area (sq. km),AG.LND.FRST.K2,29202.98
+Costa Rica,CRI,2012,Forest area (sq. km),AG.LND.FRST.K2,29039.32
+Costa Rica,CRI,2011,Forest area (sq. km),AG.LND.FRST.K2,28875.66
+Costa Rica,CRI,2010,Forest area (sq. km),AG.LND.FRST.K2,28712
+Costa Rica,CRI,2009,Forest area (sq. km),AG.LND.FRST.K2,28698.02
+Costa Rica,CRI,2008,Forest area (sq. km),AG.LND.FRST.K2,28684.04
+Costa Rica,CRI,2007,Forest area (sq. km),AG.LND.FRST.K2,28670.06
+Costa Rica,CRI,2006,Forest area (sq. km),AG.LND.FRST.K2,28656.08
+Costa Rica,CRI,2005,Forest area (sq. km),AG.LND.FRST.K2,28642.1
+Costa Rica,CRI,2004,Forest area (sq. km),AG.LND.FRST.K2,28628.12
+Costa Rica,CRI,2003,Forest area (sq. km),AG.LND.FRST.K2,28614.14
+Costa Rica,CRI,2002,Forest area (sq. km),AG.LND.FRST.K2,28600.16
+Costa Rica,CRI,2001,Forest area (sq. km),AG.LND.FRST.K2,28586.18
+Costa Rica,CRI,2000,Forest area (sq. km),AG.LND.FRST.K2,28572.2
+Costa Rica,CRI,1999,Forest area (sq. km),AG.LND.FRST.K2,28622.38
+Costa Rica,CRI,1998,Forest area (sq. km),AG.LND.FRST.K2,28672.56
+Costa Rica,CRI,1997,Forest area (sq. km),AG.LND.FRST.K2,28722.74
+Costa Rica,CRI,1996,Forest area (sq. km),AG.LND.FRST.K2,28772.92
+Costa Rica,CRI,1995,Forest area (sq. km),AG.LND.FRST.K2,28823.1
+Costa Rica,CRI,1994,Forest area (sq. km),AG.LND.FRST.K2,28873.28
+Costa Rica,CRI,1993,Forest area (sq. km),AG.LND.FRST.K2,28923.46
+Costa Rica,CRI,1992,Forest area (sq. km),AG.LND.FRST.K2,28973.64
+Costa Rica,CRI,1991,Forest area (sq. km),AG.LND.FRST.K2,29023.82
+Costa Rica,CRI,1990,Forest area (sq. km),AG.LND.FRST.K2,29074
+Costa Rica,CRI,2021,Forest area (% of land area),AG.LND.FRST.ZS,59.7579318448884
+Costa Rica,CRI,2020,Forest area (% of land area),AG.LND.FRST.ZS,59.4373286329808
+Costa Rica,CRI,2019,Forest area (% of land area),AG.LND.FRST.ZS,59.1167254210732
+Costa Rica,CRI,2018,Forest area (% of land area),AG.LND.FRST.ZS,58.7961222091657
+Costa Rica,CRI,2017,Forest area (% of land area),AG.LND.FRST.ZS,58.4757148452801
+Costa Rica,CRI,2016,Forest area (% of land area),AG.LND.FRST.ZS,58.1551116333725
+Costa Rica,CRI,2015,Forest area (% of land area),AG.LND.FRST.ZS,57.8345084214649
+Costa Rica,CRI,2014,Forest area (% of land area),AG.LND.FRST.ZS,57.5139835487662
+Costa Rica,CRI,2013,Forest area (% of land area),AG.LND.FRST.ZS,57.1934586760674
+Costa Rica,CRI,2012,Forest area (% of land area),AG.LND.FRST.ZS,56.8729338033686
+Costa Rica,CRI,2011,Forest area (% of land area),AG.LND.FRST.ZS,56.5524089306698
+Costa Rica,CRI,2010,Forest area (% of land area),AG.LND.FRST.ZS,56.231884057971
+Costa Rica,CRI,2009,Forest area (% of land area),AG.LND.FRST.ZS,56.2045045045045
+Costa Rica,CRI,2008,Forest area (% of land area),AG.LND.FRST.ZS,56.177124951038
+Costa Rica,CRI,2007,Forest area (% of land area),AG.LND.FRST.ZS,56.1497453975715
+Costa Rica,CRI,2006,Forest area (% of land area),AG.LND.FRST.ZS,56.122365844105
+Costa Rica,CRI,2005,Forest area (% of land area),AG.LND.FRST.ZS,56.0949862906385
+Costa Rica,CRI,2004,Forest area (% of land area),AG.LND.FRST.ZS,56.0676067371719
+Costa Rica,CRI,2003,Forest area (% of land area),AG.LND.FRST.ZS,56.0402271837054
+Costa Rica,CRI,2002,Forest area (% of land area),AG.LND.FRST.ZS,56.0128476302389
+Costa Rica,CRI,2001,Forest area (% of land area),AG.LND.FRST.ZS,55.9854680767724
+Costa Rica,CRI,2000,Forest area (% of land area),AG.LND.FRST.ZS,55.9580885233059
+Costa Rica,CRI,1999,Forest area (% of land area),AG.LND.FRST.ZS,56.0563650607129
+Costa Rica,CRI,1998,Forest area (% of land area),AG.LND.FRST.ZS,56.1546415981199
+Costa Rica,CRI,1997,Forest area (% of land area),AG.LND.FRST.ZS,56.2529181355268
+Costa Rica,CRI,1996,Forest area (% of land area),AG.LND.FRST.ZS,56.3511946729338
+Costa Rica,CRI,1995,Forest area (% of land area),AG.LND.FRST.ZS,56.4494712103408
+Costa Rica,CRI,1994,Forest area (% of land area),AG.LND.FRST.ZS,56.5477477477477
+Costa Rica,CRI,1993,Forest area (% of land area),AG.LND.FRST.ZS,56.6460242851547
+Costa Rica,CRI,1992,Forest area (% of land area),AG.LND.FRST.ZS,56.7443008225617
+Costa Rica,CRI,1991,Forest area (% of land area),AG.LND.FRST.ZS,56.8425773599687
+Costa Rica,CRI,1990,Forest area (% of land area),AG.LND.FRST.ZS,56.9408538973756
+Costa Rica,CRI,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2926
+Costa Rica,CRI,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3575.2
+Costa Rica,CRI,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4672.8
+Costa Rica,CRI,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3357.1
+Costa Rica,CRI,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4052.4
+Costa Rica,CRI,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4210.1
+Costa Rica,CRI,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3731
+Costa Rica,CRI,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4026.1
+Costa Rica,CRI,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3831.6
+Costa Rica,CRI,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4497.5
+Costa Rica,CRI,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3283.3
+Costa Rica,CRI,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3621.5
+Costa Rica,CRI,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3418.9
+Costa Rica,CRI,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3199.2
+Costa Rica,CRI,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3790.7
+Costa Rica,CRI,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3814.3
+Costa Rica,CRI,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3538.2
+Costa Rica,CRI,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3759
+Costa Rica,CRI,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3189.1
+Costa Rica,CRI,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3059.4
+Costa Rica,CRI,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3171.4
+Costa Rica,CRI,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3683.4
+Costa Rica,CRI,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3549.6
+Costa Rica,CRI,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3626.2
+Costa Rica,CRI,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3676.8
+Costa Rica,CRI,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3768.9
+Costa Rica,CRI,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3790.7
+Costa Rica,CRI,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3483.3
+Costa Rica,CRI,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3777.6
+Costa Rica,CRI,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3815.4
+Costa Rica,CRI,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3419.3
+Costa Rica,CRI,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3169
+Costa Rica,CRI,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3299
+Costa Rica,CRI,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3096.8
+Costa Rica,CRI,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2621.8
+Costa Rica,CRI,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2518.3
+Costa Rica,CRI,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2256
+Costa Rica,CRI,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2253.5
+Costa Rica,CRI,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2323.6
+Costa Rica,CRI,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2323.6
+Costa Rica,CRI,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2401.5
+Costa Rica,CRI,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1742.7
+Costa Rica,CRI,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2276.3
+Costa Rica,CRI,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2924.5
+Costa Rica,CRI,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2293.6
+Costa Rica,CRI,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2291.7
+Costa Rica,CRI,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2058
+Costa Rica,CRI,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1713.1
+Costa Rica,CRI,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1895.6
+Costa Rica,CRI,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1575
+Costa Rica,CRI,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1388.8
+Costa Rica,CRI,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1870.8
+Costa Rica,CRI,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1837.8
+Costa Rica,CRI,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1436.2
+Costa Rica,CRI,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1573.4
+Costa Rica,CRI,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1585.7
+Costa Rica,CRI,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1476.7
+Costa Rica,CRI,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1442.5
+Costa Rica,CRI,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1530.5
+Costa Rica,CRI,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1179.9
+Costa Rica,CRI,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1242.2
+Costa Rica,CRI,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1177.6
+Costa Rica,CRI,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1153.5
+Costa Rica,CRI,2022,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.30504327929361
+Costa Rica,CRI,2021,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.53072986406502
+Costa Rica,CRI,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.37043523311192
+Costa Rica,CRI,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.22094016660926
+Costa Rica,CRI,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.829438721344
+Costa Rica,CRI,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.83327522072814
+Costa Rica,CRI,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.45296211770326
+Costa Rica,CRI,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.23639457666332
+Costa Rica,CRI,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.23293661039784
+Costa Rica,CRI,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.291277352193
+Costa Rica,CRI,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.70866124861953
+Costa Rica,CRI,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.39172539630007
+Costa Rica,CRI,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.06371199095705
+Costa Rica,CRI,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.25151067240009
+Costa Rica,CRI,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,7.90900719295
+Costa Rica,CRI,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,8.3374260915909
+Costa Rica,CRI,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,7.92850433083463
+Costa Rica,CRI,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,7.62843539507747
+Costa Rica,CRI,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.82312653331866
+Costa Rica,CRI,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.48353970316272
+Costa Rica,CRI,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.36202694033196
+Costa Rica,CRI,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.89233617537997
+Costa Rica,CRI,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.8184645000041
+Costa Rica,CRI,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.34566834779079
+Costa Rica,CRI,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.49056201812519
+Costa Rica,CRI,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.24576223328059
+Costa Rica,CRI,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.65588697118439
+Costa Rica,CRI,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.90967964192101
+Costa Rica,CRI,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.8378568170627
+Costa Rica,CRI,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.57438574184279
+Costa Rica,CRI,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.6389408437357
+Costa Rica,CRI,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.47905997084932
+Costa Rica,CRI,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.84504346292679
+Costa Rica,CRI,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.92914688454646
+Costa Rica,CRI,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.64809968925736
+Costa Rica,CRI,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.77147252308516
+Costa Rica,CRI,1986,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.3804078444541
+Costa Rica,CRI,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.78352544818659
+Costa Rica,CRI,1984,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.52712302042379
+Costa Rica,CRI,1983,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.92896046592016
+Costa Rica,CRI,1982,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.10871398938209
+Costa Rica,CRI,1981,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.65263807759845
+Costa Rica,CRI,1980,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.08870075543199
+Costa Rica,CRI,1979,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.07792818014027
+Costa Rica,CRI,1978,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.37942434364929
+Costa Rica,CRI,1977,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.03422244821107
+Costa Rica,CRI,1976,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.56789996759465
+Costa Rica,CRI,1975,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.5199804173856
+Costa Rica,CRI,1974,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.77880385666899
+Costa Rica,CRI,1973,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.46578341862372
+Costa Rica,CRI,1972,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.08729857530612
+Costa Rica,CRI,1971,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.05171522285478
+Costa Rica,CRI,1970,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.67508155318665
+Costa Rica,CRI,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Costa Rica,CRI,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Costa Rica,CRI,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.71
+Costa Rica,CRI,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Costa Rica,CRI,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6
+Costa Rica,CRI,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.5
+Costa Rica,CRI,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.409804
+Costa Rica,CRI,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.359291
+Costa Rica,CRI,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.563517
+Costa Rica,CRI,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.503298
+Costa Rica,CRI,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.232348
+Costa Rica,CRI,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.995734
+Costa Rica,CRI,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.409804
+Costa Rica,CRI,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.263937
+Costa Rica,CRI,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.217998
+Costa Rica,CRI,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.147523
+Costa Rica,CRI,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.053051
+Costa Rica,CRI,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.954779
+Costa Rica,CRI,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.695902
+Costa Rica,CRI,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.509188
+Costa Rica,CRI,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.24978
+Costa Rica,CRI,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.94
+Costa Rica,CRI,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.43
+Costa Rica,CRI,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.42
+Costa Rica,CRI,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.13
+Costa Rica,CRI,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.33
+Costa Rica,CRI,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.11
+Costa Rica,CRI,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.33
+Costa Rica,CRI,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37.62
+Costa Rica,CRI,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37.8
+Costa Rica,CRI,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.06
+Costa Rica,CRI,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.02
+Costa Rica,CRI,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.39
+Costa Rica,CRI,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.72
+Costa Rica,CRI,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.7
+Costa Rica,CRI,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.18
+Costa Rica,CRI,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.4
+Costa Rica,CRI,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.73
+Costa Rica,CRI,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,39.16
+Costa Rica,CRI,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.3
+Costa Rica,CRI,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.54
+Costa Rica,CRI,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.1
+Costa Rica,CRI,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.95
+Costa Rica,CRI,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.89
+Costa Rica,CRI,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.89
+Costa Rica,CRI,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.58
+Costa Rica,CRI,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.6
+Costa Rica,CRI,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.01
+Costa Rica,CRI,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.82
+Costa Rica,CRI,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.28
+Costa Rica,CRI,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.12
+Costa Rica,CRI,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44.68
+Costa Rica,CRI,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.37
+Costa Rica,CRI,2014,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.59609175631858
+Costa Rica,CRI,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.60646351717223
+Costa Rica,CRI,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.57427470311715
+Costa Rica,CRI,2011,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.59613524743534
+Costa Rica,CRI,2010,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.53031673682233
+Costa Rica,CRI,2009,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.57863441107289
+Costa Rica,CRI,2008,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.63982471320512
+Costa Rica,CRI,2007,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.68572272700253
+Costa Rica,CRI,2006,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.56836268195757
+Costa Rica,CRI,2005,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.62194420667139
+Costa Rica,CRI,2004,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.53607209298356
+Costa Rica,CRI,2003,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.77687477138055
+Costa Rica,CRI,2002,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.81506583559449
+Costa Rica,CRI,2001,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.87494400247963
+Costa Rica,CRI,2000,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.72258754224689
+Costa Rica,CRI,1999,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.91725157421951
+Costa Rica,CRI,1998,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.10582924577334
+Costa Rica,CRI,1997,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.87266620538185
+Costa Rica,CRI,1996,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.91335096600993
+Costa Rica,CRI,1995,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.04025884564615
+Costa Rica,CRI,1994,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.09926538696603
+Costa Rica,CRI,1993,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.78256008037725
+Costa Rica,CRI,1992,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.80583960663157
+Costa Rica,CRI,1991,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.71921316220608
+Costa Rica,CRI,1990,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.7109476205607
+Costa Rica,CRI,1989,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.84693181733495
+Costa Rica,CRI,1988,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.03329254212211
+Costa Rica,CRI,1987,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.95310979436133
+Costa Rica,CRI,1986,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.96776465047616
+Costa Rica,CRI,1985,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.79301641655597
+Costa Rica,CRI,1984,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.63056751133027
+Costa Rica,CRI,1983,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.85956796803978
+Costa Rica,CRI,1982,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.81340120440148
+Costa Rica,CRI,1981,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.90800867084842
+Costa Rica,CRI,1980,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.96083305549433
+Costa Rica,CRI,1979,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.13963977071027
+Costa Rica,CRI,1978,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.31187730734942
+Costa Rica,CRI,1977,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.23799288860585
+Costa Rica,CRI,1976,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.07912547157215
+Costa Rica,CRI,1975,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.04893069006443
+Costa Rica,CRI,1974,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.07603927712496
+Costa Rica,CRI,1973,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.17910950041587
+Costa Rica,CRI,1972,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.04402619947666
+Costa Rica,CRI,1971,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.89246831424742
+Costa Rica,CRI,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2011,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2010,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2009,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2008,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2007,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2006,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2005,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2004,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2003,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2002,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2001,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2000,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1999,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1998,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1997,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1996,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1995,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1994,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1993,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1992,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1991,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1990,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1989,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1988,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1987,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1986,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1985,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1984,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1983,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1982,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1981,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1980,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1979,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1978,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1977,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1976,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1975,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1974,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1973,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1972,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1971,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1970,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1969,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1968,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1967,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1966,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1965,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1964,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1963,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1962,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1961,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,1960,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Costa Rica,CRI,2016,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2015,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Costa Rica,CRI,2020,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.113049879974712
+Costa Rica,CRI,2019,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.123580176557227
+Costa Rica,CRI,2018,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.129911533009622
+Costa Rica,CRI,2017,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.133422528698715
+Costa Rica,CRI,2016,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.136171226262765
+Costa Rica,CRI,2015,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.133551443507653
+Costa Rica,CRI,2014,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.143835323453939
+Costa Rica,CRI,2013,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.147910931876746
+Costa Rica,CRI,2012,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.145130535470574
+Costa Rica,CRI,2011,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.151891658913281
+Costa Rica,CRI,2010,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.151637507541084
+Costa Rica,CRI,2009,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.161856885870802
+Costa Rica,CRI,2008,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.167504106361339
+Costa Rica,CRI,2007,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.177476382193289
+Costa Rica,CRI,2006,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.165644612584764
+Costa Rica,CRI,2005,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.170105157625084
+Costa Rica,CRI,2004,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.167558071343663
+Costa Rica,CRI,2003,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.170712065502973
+Costa Rica,CRI,2002,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.169615370329572
+Costa Rica,CRI,2001,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.172219145484568
+Costa Rica,CRI,2000,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.16258987597525
+Costa Rica,CRI,1999,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.171856962134229
+Costa Rica,CRI,1998,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.178435097156266
+Costa Rica,CRI,1997,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.171324889642302
+Costa Rica,CRI,1996,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.182033907525514
+Costa Rica,CRI,1995,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.196021690814918
+Costa Rica,CRI,1994,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.205891956064264
+Costa Rica,CRI,1993,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.185488937955809
+Costa Rica,CRI,1992,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.197113972257819
+Costa Rica,CRI,1991,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.1588553305987
+Costa Rica,CRI,1990,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.152351450396612
+Costa Rica,CRI,2020,CO2 emissions (kt),EN.ATM.CO2E.KT,6967.4
+Costa Rica,CRI,2019,CO2 emissions (kt),EN.ATM.CO2E.KT,7956.4
+Costa Rica,CRI,2018,CO2 emissions (kt),EN.ATM.CO2E.KT,8166.6
+Costa Rica,CRI,2017,CO2 emissions (kt),EN.ATM.CO2E.KT,8173.5
+Costa Rica,CRI,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,8008.9
+Costa Rica,CRI,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,7537.9
+Costa Rica,CRI,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,7832.3
+Costa Rica,CRI,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,7778.7
+Costa Rica,CRI,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,7446.7
+Costa Rica,CRI,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,7430.8
+Costa Rica,CRI,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,7105.5
+Costa Rica,CRI,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,7198.5
+Costa Rica,CRI,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,7515.3
+Costa Rica,CRI,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,7602.5
+Costa Rica,CRI,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,6557
+Costa Rica,CRI,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,6273.9
+Costa Rica,CRI,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,5943.6
+Costa Rica,CRI,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,5798.9
+Costa Rica,CRI,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,5523.2
+Costa Rica,CRI,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,5422.7
+Costa Rica,CRI,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,4946.8
+Costa Rica,CRI,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,5034
+Costa Rica,CRI,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,5015.3
+Costa Rica,CRI,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,4493.9
+Costa Rica,CRI,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,4526.9
+Costa Rica,CRI,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,4809.8
+Costa Rica,CRI,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,4850.5
+Costa Rica,CRI,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,4180.9
+Costa Rica,CRI,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,4148.5
+Costa Rica,CRI,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,3061.6
+Costa Rica,CRI,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,2871.2
+Costa Rica,CRI,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6926.963
+Costa Rica,CRI,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6439.252
+Costa Rica,CRI,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6787.617
+Costa Rica,CRI,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6684.941
+Costa Rica,CRI,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6343.91
+Costa Rica,CRI,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6340.243
+Costa Rica,CRI,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6703.276
+Costa Rica,CRI,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6600.6
+Costa Rica,CRI,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6787.617
+Costa Rica,CRI,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6677.607
+Costa Rica,CRI,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6255.902
+Costa Rica,CRI,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5742.522
+Costa Rica,CRI,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5874.534
+Costa Rica,CRI,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5683.85
+Costa Rica,CRI,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5526.169
+Costa Rica,CRI,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5045.792
+Costa Rica,CRI,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4950.45
+Costa Rica,CRI,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4972.452
+Costa Rica,CRI,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4774.434
+Costa Rica,CRI,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4517.744
+Costa Rica,CRI,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4334.394
+Costa Rica,CRI,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4433.403
+Costa Rica,CRI,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4800.103
+Costa Rica,CRI,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3523.987
+Costa Rica,CRI,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3443.313
+Costa Rica,CRI,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2988.605
+Costa Rica,CRI,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2647.574
+Costa Rica,CRI,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2669.576
+Costa Rica,CRI,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2662.242
+Costa Rica,CRI,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2467.891
+Costa Rica,CRI,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2332.212
+Costa Rica,CRI,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2027.851
+Costa Rica,CRI,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1767.494
+Costa Rica,CRI,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1914.174
+Costa Rica,CRI,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1873.837
+Costa Rica,CRI,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2020.517
+Costa Rica,CRI,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2189.199
+Costa Rica,CRI,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2530.23
+Costa Rica,CRI,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2676.91
+Costa Rica,CRI,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2412.886
+Costa Rica,CRI,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1906.84
+Costa Rica,CRI,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1873.837
+Costa Rica,CRI,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1760.16
+Costa Rica,CRI,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1910.507
+Costa Rica,CRI,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1631.815
+Costa Rica,CRI,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1422.796
+Costa Rica,CRI,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1158.772
+Costa Rica,CRI,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1067.097
+Costa Rica,CRI,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,971.755
+Costa Rica,CRI,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,821.408
+Costa Rica,CRI,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,935.085
+Costa Rica,CRI,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,788.405
+Costa Rica,CRI,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,660.06
+Costa Rica,CRI,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,601.388
+Costa Rica,CRI,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,550.05
+Costa Rica,CRI,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,491.378
+Costa Rica,CRI,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,491.378
+Costa Rica,CRI,2016,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,85.7297400990099
+Costa Rica,CRI,2015,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,85.4012201591512
+Costa Rica,CRI,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,86.6873180076628
+Costa Rica,CRI,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,85.9246915167095
+Costa Rica,CRI,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,85.1531543624161
+Costa Rica,CRI,2011,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,85.3330148048452
+Costa Rica,CRI,2010,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,94.2795499296765
+Costa Rica,CRI,2009,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,91.675
+Costa Rica,CRI,2008,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.2608643617021
+Costa Rica,CRI,2007,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,87.86325
+Costa Rica,CRI,2006,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.3643597560976
+Costa Rica,CRI,2005,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,91.5872727272727
+Costa Rica,CRI,2004,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.8978787878788
+Costa Rica,CRI,2003,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,97.9974137931034
+Costa Rica,CRI,2002,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.111757246377
+Costa Rica,CRI,2001,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.0957933579336
+Costa Rica,CRI,2000,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.009090909091
+Costa Rica,CRI,1999,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.6597619047619
+Costa Rica,CRI,1998,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.1082470119522
+Costa Rica,CRI,1997,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100.617906458797
+Costa Rica,CRI,1996,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.6819867549669
+Costa Rica,CRI,1995,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.1705405405405
+Costa Rica,CRI,1994,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,98.9711958762887
+Costa Rica,CRI,1993,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,84.3059090909091
+Costa Rica,CRI,1992,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.9713975903614
+Costa Rica,CRI,1991,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,97.6668300653595
+Costa Rica,CRI,1990,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.2499651567944
+Costa Rica,CRI,1989,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.7657213316893
+Costa Rica,CRI,1988,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.5236907730673
+Costa Rica,CRI,1987,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.4946808510638
+Costa Rica,CRI,1986,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.4514767932489
+Costa Rica,CRI,1985,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.4822006472492
+Costa Rica,CRI,1984,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,88.2783882783883
+Costa Rica,CRI,1983,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.9407665505226
+Costa Rica,CRI,1982,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.8066783831283
+Costa Rica,CRI,1981,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.7394136807818
+Costa Rica,CRI,1980,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,88.8392857142857
+Costa Rica,CRI,1979,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.5511811023622
+Costa Rica,CRI,1978,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,91.5934755332497
+Costa Rica,CRI,1977,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.2861150070126
+Costa Rica,CRI,1976,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,91.3884007029877
+Costa Rica,CRI,1975,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,91.9064748201439
+Costa Rica,CRI,1974,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.3076923076923
+Costa Rica,CRI,1973,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.3691756272402
+Costa Rica,CRI,1972,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.5155925155925
+Costa Rica,CRI,1971,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.0455635491607
+Costa Rica,CRI,1970,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.6686217008798
+Costa Rica,CRI,1969,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.9712460063898
+Costa Rica,CRI,1968,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.6395759717314
+Costa Rica,CRI,1967,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.7238493723849
+Costa Rica,CRI,1966,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,94.0959409594096
+Costa Rica,CRI,1965,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,93.0735930735931
+Costa Rica,CRI,1964,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,97.8260869565217
+Costa Rica,CRI,1963,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
+Costa Rica,CRI,1962,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
+Costa Rica,CRI,1961,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
+Costa Rica,CRI,1960,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,100
+Costa Rica,CRI,2020,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.35999554957394
+Costa Rica,CRI,2019,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.56482445188662
+Costa Rica,CRI,2018,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.62012119663525
+Costa Rica,CRI,2017,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.63671577915361
+Costa Rica,CRI,2016,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.61952841186564
+Costa Rica,CRI,2015,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.53984215693524
+Costa Rica,CRI,2014,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.61681138693653
+Costa Rica,CRI,2013,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.62342547847402
+Costa Rica,CRI,2012,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.57216378945795
+Costa Rica,CRI,2011,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.5878028840627
+Costa Rica,CRI,2010,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.53723769279563
+Costa Rica,CRI,2009,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.5775366322261
+Costa Rica,CRI,2008,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.66935403797623
+Costa Rica,CRI,2007,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.71226744750417
+Costa Rica,CRI,2006,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.49765701301822
+Costa Rica,CRI,2005,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.45367568706039
+Costa Rica,CRI,2004,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.39757336343115
+Costa Rica,CRI,2003,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.38444495906757
+Costa Rica,CRI,2002,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.33972958478134
+Costa Rica,CRI,2001,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.33787391857638
+Costa Rica,CRI,2000,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.24316664208044
+Costa Rica,CRI,1999,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.29029612219109
+Costa Rica,CRI,1998,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.31241755357497
+Costa Rica,CRI,1997,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.20176358853416
+Costa Rica,CRI,1996,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.23813191387641
+Costa Rica,CRI,1995,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.34620594840654
+Costa Rica,CRI,1994,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.39016586265087
+Costa Rica,CRI,1993,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.22773664668647
+Costa Rica,CRI,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.24881883743199
+Costa Rica,CRI,1991,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.945109208023426
+Costa Rica,CRI,1990,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.909110194781735
+Costa Rica,CRI,2020,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0626239129667696
+Costa Rica,CRI,2019,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0681854807640608
+Costa Rica,CRI,2018,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0766217189953234
+Costa Rica,CRI,2017,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.081153211661991
+Costa Rica,CRI,2016,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.085698057207123
+Costa Rica,CRI,2015,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0909793698372335
+Costa Rica,CRI,2014,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.101653338478112
+Costa Rica,CRI,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.109313222891828
+Costa Rica,CRI,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.110914139110211
+Costa Rica,CRI,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.118401260739922
+Costa Rica,CRI,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.120659069998502
+Costa Rica,CRI,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.130338499714776
+Costa Rica,CRI,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.135750595580427
+Costa Rica,CRI,2007,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.14659105135861
+Costa Rica,CRI,2006,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.14051585674663
+Costa Rica,CRI,2005,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.148752212168439
+Costa Rica,CRI,2004,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.151119618020573
+Costa Rica,CRI,2003,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.158097213407718
+Costa Rica,CRI,2002,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.160181719640511
+Costa Rica,CRI,2001,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.165175484312118
+Costa Rica,CRI,2000,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.159453301179256
+Costa Rica,CRI,1999,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.172360003515424
+Costa Rica,CRI,1998,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.18147931956041
+Costa Rica,CRI,1997,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.176209023891271
+Costa Rica,CRI,1996,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.190451872535777
+Costa Rica,CRI,1995,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.208841574058893
+Costa Rica,CRI,1994,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.223957063947739
+Costa Rica,CRI,1993,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.20607238392546
+Costa Rica,CRI,1992,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.224178177697064
+Costa Rica,CRI,1991,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.184783764161218
+Costa Rica,CRI,1990,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.183211418857765
+Costa Rica,CRI,2020,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0687617070927153
+Costa Rica,CRI,2019,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0751666777956324
+Costa Rica,CRI,2018,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0790176759388992
+Costa Rica,CRI,2017,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.081153211661991
+Costa Rica,CRI,2016,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0828250855005826
+Costa Rica,CRI,2015,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0812316230882934
+Costa Rica,CRI,2014,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0874867127956093
+Costa Rica,CRI,2013,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0899656698069426
+Costa Rica,CRI,2012,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0882745153950526
+Costa Rica,CRI,2011,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0923869159556643
+Costa Rica,CRI,2010,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0922323303672839
+Costa Rica,CRI,2009,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0984481874697855
+Costa Rica,CRI,2008,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.101883065254221
+Costa Rica,CRI,2007,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.107948624191194
+Costa Rica,CRI,2006,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.100752042678751
+Costa Rica,CRI,2005,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.103465134383094
+Costa Rica,CRI,2004,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.1019158890335
+Costa Rica,CRI,2003,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.103834281362649
+Costa Rica,CRI,2002,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.103167225083595
+Costa Rica,CRI,2001,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.10475095099806
+Costa Rica,CRI,2000,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0988940229795197
+Costa Rica,CRI,1999,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.10453065580221
+Costa Rica,CRI,1998,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.108531755084251
+Costa Rica,CRI,1997,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.104207026862045
+Costa Rica,CRI,1996,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.110720703401116
+Costa Rica,CRI,1995,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.119228663406359
+Costa Rica,CRI,1994,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.125232175202699
+Costa Rica,CRI,1993,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.112822198692376
+Costa Rica,CRI,1992,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.119893035068287
+Costa Rica,CRI,1991,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0966225149039317
+Costa Rica,CRI,1990,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0926665805365347
+Costa Rica,CRI,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,300.694
+Costa Rica,CRI,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,275.025
+Costa Rica,CRI,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,304.361
+Costa Rica,CRI,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,304.361
+Costa Rica,CRI,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,297.027
+Costa Rica,CRI,2011,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,341.031
+Costa Rica,CRI,2010,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,231.021
+Costa Rica,CRI,2009,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,253.023
+Costa Rica,CRI,2008,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,293.36
+Costa Rica,CRI,2007,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,297.027
+Costa Rica,CRI,2006,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,146.68
+Costa Rica,CRI,2005,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,128.345
+Costa Rica,CRI,2004,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,308.028
+Costa Rica,CRI,2003,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,381.368
+Costa Rica,CRI,2002,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,201.685
+Costa Rica,CRI,2001,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,117.344
+Costa Rica,CRI,2000,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1999,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1998,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1997,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1996,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1995,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1994,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1993,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1992,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1991,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1990,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1989,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1988,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1987,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1986,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1985,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1984,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1983,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1982,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1981,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1980,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1979,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1978,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1977,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1976,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1975,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1974,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1973,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1972,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1971,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1970,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1969,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1968,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1967,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1966,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1965,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1964,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1963,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1962,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1961,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,1960,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+Costa Rica,CRI,2016,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.7214603960396
+Costa Rica,CRI,2015,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.64754641909814
+Costa Rica,CRI,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.88711366538953
+Costa Rica,CRI,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.91209511568123
+Costa Rica,CRI,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.98693959731544
+Costa Rica,CRI,2011,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,4.58991924629879
+Costa Rica,CRI,2010,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.24924050632911
+Costa Rica,CRI,2009,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.51420833333333
+Costa Rica,CRI,2008,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.90106382978723
+Costa Rica,CRI,2007,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.90825
+Costa Rica,CRI,2006,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.2359756097561
+Costa Rica,CRI,2005,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.0469696969697
+Costa Rica,CRI,2004,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,5.18565656565657
+Costa Rica,CRI,2003,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,6.57531034482759
+Costa Rica,CRI,2002,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.65371376811594
+Costa Rica,CRI,2001,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.1650184501845
+Costa Rica,CRI,2000,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1999,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1998,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1997,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1996,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1995,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1994,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1993,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1992,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1991,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1990,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1989,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1988,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1987,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1986,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1985,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1984,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1983,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1982,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1981,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1980,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1979,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1978,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1977,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1976,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1975,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1974,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1973,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1972,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1971,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1970,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1969,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1968,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1967,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1966,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1965,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1964,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1963,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1962,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1961,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,1960,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+Costa Rica,CRI,2016,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,441.109741210939
+Costa Rica,CRI,2015,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,7.49658203125
+Costa Rica,CRI,2014,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,533.88259887695
+Costa Rica,CRI,2013,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,471.84243774414
+Costa Rica,CRI,2012,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,364.92630004883
+Costa Rica,CRI,2011,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,422.5969543457
+Costa Rica,CRI,2010,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,268.97915649414
+Costa Rica,CRI,2009,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,289.66891479492
+Costa Rica,CRI,2008,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,267.63061523437
+Costa Rica,CRI,2007,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,252.34216308594
+Costa Rica,CRI,2006,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-11.8525085449201
+Costa Rica,CRI,2005,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-111.37969970703
+Costa Rica,CRI,2004,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-71.1478729248001
+Costa Rica,CRI,2003,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-25.0638580322302
+Costa Rica,CRI,2002,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,145.8787689209
+Costa Rica,CRI,2001,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,113.48448181152
+Costa Rica,CRI,2000,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,32.9458580017099
+Costa Rica,CRI,1999,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,59.4075927734402
+Costa Rica,CRI,1998,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,29.1926879882803
+Costa Rica,CRI,1997,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-9.14196777344023
+Costa Rica,CRI,1996,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-28.8849792480496
+Costa Rica,CRI,1995,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-67.7866821289099
+Costa Rica,CRI,1994,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-28.5713806152298
+Costa Rica,CRI,1993,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-6.57321166992006
+Costa Rica,CRI,1992,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-19.0913848876999
+Costa Rica,CRI,1991,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-22.7265625
+Costa Rica,CRI,1990,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,12.3975296020499
+Costa Rica,CRI,1989,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,90.8036940002403
+Costa Rica,CRI,1988,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,74.6880281066899
+Costa Rica,CRI,1987,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-77.5421490478493
+Costa Rica,CRI,1986,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,70.7650204467798
+Costa Rica,CRI,1985,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,69.9133036804203
+Costa Rica,CRI,1984,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,62.3876803588898
+Costa Rica,CRI,1983,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,63.3069497680704
+Costa Rica,CRI,1982,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,53.9259260559097
+Costa Rica,CRI,1981,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,53.7303684997603
+Costa Rica,CRI,1980,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,54.2672543334995
+Costa Rica,CRI,1979,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,54.2359930419898
+Costa Rica,CRI,1978,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,55.36512390137
+Costa Rica,CRI,1977,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,56.0673171997109
+Costa Rica,CRI,1976,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,38.6888442993202
+Costa Rica,CRI,1975,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,37.7020065307599
+Costa Rica,CRI,1974,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,36.1452856445305
+Costa Rica,CRI,1973,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,36.01125793457
+Costa Rica,CRI,1972,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,32.6816229248006
+Costa Rica,CRI,1971,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,24.0674380493203
+Costa Rica,CRI,1970,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,24.7991427612294
+Costa Rica,CRI,2012,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,838.300051843268
+Costa Rica,CRI,2011,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,838.300051843293
+Costa Rica,CRI,2010,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,838.300051843116
+Costa Rica,CRI,2009,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,625.155367224639
+Costa Rica,CRI,2008,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,261.702797784885
+Costa Rica,CRI,2007,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,475.424907049618
+Costa Rica,CRI,2006,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,434.430256851469
+Costa Rica,CRI,2005,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,229.457005860729
+Costa Rica,CRI,2004,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,470.42555946448
+Costa Rica,CRI,2003,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,742.252586037507
+Costa Rica,CRI,2002,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,255.45361330346
+Costa Rica,CRI,2001,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,2797.92182120228
+Costa Rica,CRI,2000,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,5.48623404645634
+Costa Rica,CRI,1999,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,495.922232148692
+Costa Rica,CRI,1998,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,186.462616628525
+Costa Rica,CRI,1997,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,18.4095475540419
+Costa Rica,CRI,1996,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,11.9603891692137
+Costa Rica,CRI,1995,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,6.66108072896376
+Costa Rica,CRI,1994,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,3.13654068143878
+Costa Rica,CRI,1993,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,1.28928174873053
+Costa Rica,CRI,1992,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,0.286912557911445
+Costa Rica,CRI,1991,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,0.0711907096099029
+Costa Rica,CRI,2020,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14405.0866
+Costa Rica,CRI,2019,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,15718.67899
+Costa Rica,CRI,2018,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,15749.85459
+Costa Rica,CRI,2017,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,15440.86498
+Costa Rica,CRI,2016,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,15103.53237
+Costa Rica,CRI,2015,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14296.03177
+Costa Rica,CRI,2014,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14438.24508
+Costa Rica,CRI,2013,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,14390.80079
+Costa Rica,CRI,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13894.03481
+Costa Rica,CRI,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13939.11362
+Costa Rica,CRI,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13252.16003
+Costa Rica,CRI,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13119.85323
+Costa Rica,CRI,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13563.61134
+Costa Rica,CRI,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,13378.75534
+Costa Rica,CRI,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,12014.05874
+Costa Rica,CRI,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11680.17054
+Costa Rica,CRI,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11138.83123
+Costa Rica,CRI,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11114.12492
+Costa Rica,CRI,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10757.81741
+Costa Rica,CRI,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10725.3465
+Costa Rica,CRI,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10415.03619
+Costa Rica,CRI,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10562.36082
+Costa Rica,CRI,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10740.24144
+Costa Rica,CRI,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10041.16087
+Costa Rica,CRI,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10003.802
+Costa Rica,CRI,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10017.77822
+Costa Rica,CRI,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10424.69289
+Costa Rica,CRI,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,10013.63475
+Costa Rica,CRI,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,9928.016514
+Costa Rica,CRI,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,8785.251577
+Costa Rica,CRI,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,8492.885741
+Costa Rica,CRI,2012,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,42.8256790099776
+Costa Rica,CRI,2011,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,39.5739508811798
+Costa Rica,CRI,2010,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,35.9652970335025
+Costa Rica,CRI,2009,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,28.7878241652956
+Costa Rica,CRI,2008,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,25.7483083749175
+Costa Rica,CRI,2007,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,31.4673996408815
+Costa Rica,CRI,2006,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,24.6845549441859
+Costa Rica,CRI,2005,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,17.4713656085634
+Costa Rica,CRI,2004,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,23.0152314393861
+Costa Rica,CRI,2003,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,21.2019993114514
+Costa Rica,CRI,2002,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,16.3418658398107
+Costa Rica,CRI,2001,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,27.0375782264885
+Costa Rica,CRI,2000,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,14.6324750148381
+Costa Rica,CRI,1999,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,20.3026565255817
+Costa Rica,CRI,1998,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,23.0579506755312
+Costa Rica,CRI,1997,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,15.4858648328878
+Costa Rica,CRI,1996,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,15.2843052554172
+Costa Rica,CRI,1995,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,17.0013900112405
+Costa Rica,CRI,1994,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,21.6843722377645
+Costa Rica,CRI,1993,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,16.990399512619
+Costa Rica,CRI,1992,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,17.8114450321318
+Costa Rica,CRI,1991,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,3.69226388820902
+Costa Rica,CRI,2010,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,98
+Costa Rica,CRI,2008,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,83.2
+Costa Rica,CRI,2005,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,61.5
+Costa Rica,CRI,2000,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,25.2
+Costa Rica,CRI,1990,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+Costa Rica,CRI,2020,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4650.441149
+Costa Rica,CRI,2019,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4919.66067
+Costa Rica,CRI,2018,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4814.065191
+Costa Rica,CRI,2017,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4631.954712
+Costa Rica,CRI,2016,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4492.089234
+Costa Rica,CRI,2015,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4343.133755
+Costa Rica,CRI,2014,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4298.688619
+Costa Rica,CRI,2013,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4286.028483
+Costa Rica,CRI,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4206.285848
+Costa Rica,CRI,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4263.793212
+Costa Rica,CRI,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4171.650576
+Costa Rica,CRI,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4101.577461
+Costa Rica,CRI,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4043.486846
+Costa Rica,CRI,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3889.55873
+Costa Rica,CRI,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3698.390615
+Costa Rica,CRI,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3704.1725
+Costa Rica,CRI,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3574.2775
+Costa Rica,CRI,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3605.9525
+Costa Rica,CRI,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3663.1125
+Costa Rica,CRI,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3733.4775
+Costa Rica,CRI,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3801.0975
+Costa Rica,CRI,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3778.615
+Costa Rica,CRI,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3797.9775
+Costa Rica,CRI,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3681.1
+Costa Rica,CRI,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3671.675
+Costa Rica,CRI,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3657.9575
+Costa Rica,CRI,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3920.65
+Costa Rica,CRI,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4150.9175
+Costa Rica,CRI,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4073.7875
+Costa Rica,CRI,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4034.175
+Costa Rica,CRI,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3976.46
+Costa Rica,CRI,2012,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-38.5831451520885
+Costa Rica,CRI,2011,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-39.1852711800092
+Costa Rica,CRI,2010,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-39.7873972079299
+Costa Rica,CRI,2009,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-40.31678134445
+Costa Rica,CRI,2008,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-42.4778361854622
+Costa Rica,CRI,2007,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-40.1721626204382
+Costa Rica,CRI,2006,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-37.7805138873778
+Costa Rica,CRI,2005,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-35.3896612206882
+Costa Rica,CRI,2004,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-28.8194601077874
+Costa Rica,CRI,2003,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-27.5701666166914
+Costa Rica,CRI,2002,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-26.5652655014024
+Costa Rica,CRI,2001,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-24.4076602813299
+Costa Rica,CRI,2000,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-22.5982014207131
+Costa Rica,CRI,1999,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-21.6922778908487
+Costa Rica,CRI,1998,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-19.1135535606722
+Costa Rica,CRI,1997,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-20.8659609980549
+Costa Rica,CRI,1996,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-19.0745463085076
+Costa Rica,CRI,1995,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-19.0185563071012
+Costa Rica,CRI,1994,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-11.2903439802788
+Costa Rica,CRI,1993,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-4.14272939315862
+Costa Rica,CRI,1992,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-1.13917097648155
+Costa Rica,CRI,1991,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-0.302770576325528
+Costa Rica,CRI,2020,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1875.797079
+Costa Rica,CRI,2019,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1988.550226
+Costa Rica,CRI,2018,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1972.501572
+Costa Rica,CRI,2017,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1896.102719
+Costa Rica,CRI,2016,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1920.615865
+Costa Rica,CRI,2015,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1790.451012
+Costa Rica,CRI,2014,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1736.748596
+Costa Rica,CRI,2013,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1809.60358
+Costa Rica,CRI,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1778.619365
+Costa Rica,CRI,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1836.129949
+Costa Rica,CRI,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1620.658133
+Costa Rica,CRI,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1497.134317
+Costa Rica,CRI,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1713.8929
+Costa Rica,CRI,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1627.474883
+Costa Rica,CRI,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1531.156267
+Costa Rica,CRI,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1506.29605
+Costa Rica,CRI,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1439.006625
+Costa Rica,CRI,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1541.180199
+Costa Rica,CRI,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1417.267574
+Costa Rica,CRI,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1428.786549
+Costa Rica,CRI,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1540.611123
+Costa Rica,CRI,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1641.308992
+Costa Rica,CRI,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1836.617861
+Costa Rica,CRI,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1793.90553
+Costa Rica,CRI,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1751.062399
+Costa Rica,CRI,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1513.946868
+Costa Rica,CRI,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1620.191831
+Costa Rica,CRI,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1651.188994
+Costa Rica,CRI,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1677.823557
+Costa Rica,CRI,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1664.29392
+Costa Rica,CRI,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,1622.765883
+Costa Rica,CRI,2012,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.7778066814075
+Costa Rica,CRI,2011,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-16.6035144590408
+Costa Rica,CRI,2010,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-17.429222236674
+Costa Rica,CRI,2009,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-21.3989134458574
+Costa Rica,CRI,2008,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-23.3904291188506
+Costa Rica,CRI,2007,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.8543223710759
+Costa Rica,CRI,2006,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-23.1164560592569
+Costa Rica,CRI,2005,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-24.6390659236211
+Costa Rica,CRI,2004,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.2912018462749
+Costa Rica,CRI,2003,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.9937268006683
+Costa Rica,CRI,2002,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-25.2773914696495
+Costa Rica,CRI,2001,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.5164834065373
+Costa Rica,CRI,2000,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-9.45165367670845
+Costa Rica,CRI,1999,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,4.07908033096878
+Costa Rica,CRI,1998,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,18.2381347820722
+Costa Rica,CRI,1997,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,18.9186485107405
+Costa Rica,CRI,1996,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,12.8428832037673
+Costa Rica,CRI,1995,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,3.5791587042725
+Costa Rica,CRI,1994,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,10.9003925335254
+Costa Rica,CRI,1993,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,12.1160124997082
+Costa Rica,CRI,1992,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,11.2537394070976
+Costa Rica,CRI,1991,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,5.20732240109121
+Costa Rica,CRI,2010,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+Costa Rica,CRI,2008,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+Costa Rica,CRI,2005,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+Costa Rica,CRI,2000,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+Costa Rica,CRI,1990,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+Costa Rica,CRI,2010,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Costa Rica,CRI,2008,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Costa Rica,CRI,2005,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Costa Rica,CRI,2000,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Costa Rica,CRI,1990,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Costa Rica,CRI,2011,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,4.5
+Costa Rica,CRI,2005,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-3.5073
+Costa Rica,CRI,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.701045625679748
+Costa Rica,CRI,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.03788380830136
+Costa Rica,CRI,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.06108570827364
+Costa Rica,CRI,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.03616369719189
+Costa Rica,CRI,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.964491150023063
+Costa Rica,CRI,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.951320677433142
+Costa Rica,CRI,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.06073676718503
+Costa Rica,CRI,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.00237495832442
+Costa Rica,CRI,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.01240638570678
+Costa Rica,CRI,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.09690046437692
+Costa Rica,CRI,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,28.0495102522499
+Costa Rica,CRI,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.8203353169927
+Costa Rica,CRI,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.5619878085906
+Costa Rica,CRI,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.3199358592104
+Costa Rica,CRI,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.1125444780365
+Costa Rica,CRI,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.9354621767385
+Costa Rica,CRI,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.7777194392614
+Costa Rica,CRI,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.6326471804506
+Costa Rica,CRI,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.4969740004682
+Costa Rica,CRI,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.3706658233367
+Costa Rica,CRI,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.2577441258386
+Costa Rica,CRI,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.1611035611462
+Costa Rica,CRI,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.0768439500966
+Costa Rica,CRI,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.0028661353816
+Costa Rica,CRI,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.9413774808372
+Costa Rica,CRI,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.896900456494
+Costa Rica,CRI,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.8602496971297
+Costa Rica,CRI,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.8288847491602
+Costa Rica,CRI,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.805332716079
+Costa Rica,CRI,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.7925601956358
+Costa Rica,CRI,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.7911813226822
+Costa Rica,CRI,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.8076472187731
+Costa Rica,CRI,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.8525193043954
+Costa Rica,CRI,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.9357110851371
+Costa Rica,CRI,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.5941283068003
+Costa Rica,CRI,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.276879987837
+Costa Rica,CRI,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.9878256553622
+Costa Rica,CRI,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.7231167370579
+Costa Rica,CRI,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.4729426542799
+Costa Rica,CRI,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.2418501687516
+Costa Rica,CRI,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.0273309347701
+Costa Rica,CRI,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.8277403648893
+Costa Rica,CRI,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.6359106924894
+Costa Rica,CRI,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.451794393926
+Costa Rica,CRI,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.2700801331341
+Costa Rica,CRI,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.0929204144248
+Costa Rica,CRI,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9250545802068
+Costa Rica,CRI,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.7742411904564
+Costa Rica,CRI,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.6378991889843
+Costa Rica,CRI,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.5111267710111
+Costa Rica,CRI,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.3315864210618
+Costa Rica,CRI,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.1520476089667
+Costa Rica,CRI,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.9709640056518
+Costa Rica,CRI,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.7876546564371
+Costa Rica,CRI,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.6021824763393
+Costa Rica,CRI,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.4170176842897
+Costa Rica,CRI,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.2260348755184
+Costa Rica,CRI,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.0291924869807
+Costa Rica,CRI,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.823448635083
+Costa Rica,CRI,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.6142641632272
+Costa Rica,CRI,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.4044666484237
+Costa Rica,CRI,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.0447240593041
+Costa Rica,CRI,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.6727239140041
+Costa Rica,CRI,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.3193716431077
+Costa Rica,CRI,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.9853862305423
+Costa Rica,CRI,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.6714592278344
+Costa Rica,CRI,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.3819814285765
+Costa Rica,CRI,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.1267107412643
+Costa Rica,CRI,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.8971458805443
+Costa Rica,CRI,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.6923260467633
+Costa Rica,CRI,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.506724398741
+Costa Rica,CRI,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.3458591590954
+Costa Rica,CRI,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.2013798062942
+Costa Rica,CRI,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.0683843595271
+Costa Rica,CRI,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.13608
+Costa Rica,CRI,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.13813
+Costa Rica,CRI,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.05366
+Costa Rica,CRI,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.44
+Costa Rica,CRI,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.92271
+Costa Rica,CRI,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,3.194018
+Costa Rica,CRI,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.74369
+Costa Rica,CRI,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.466121
+Costa Rica,CRI,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.338321
+Costa Rica,CRI,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.77529203539823
+Costa Rica,CRI,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.77710619469027
+Costa Rica,CRI,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.70235398230088
+Costa Rica,CRI,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.15929203539823
+Costa Rica,CRI,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.58646902654867
+Costa Rica,CRI,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.82656460176991
+Costa Rica,CRI,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.42804424778761
+Costa Rica,CRI,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.18240796460177
+Costa Rica,CRI,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.06931061946903
+Costa Rica,CRI,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,26.5901375
+Costa Rica,CRI,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.41676521
+Costa Rica,CRI,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.41677
+Costa Rica,CRI,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.29196
+Costa Rica,CRI,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,27.6026953211753
+Costa Rica,CRI,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,27.6026953211753
+Costa Rica,CRI,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,27.6
+Costa Rica,CRI,2022,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,28.9516144
+Costa Rica,CRI,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,2.728768587
+Costa Rica,CRI,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,2.728769
+Costa Rica,CRI,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,2.614376
+Costa Rica,CRI,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.833447452118705
+Costa Rica,CRI,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.833447452118705
+Costa Rica,CRI,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.833521087
+Costa Rica,CRI,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,28.7573679898287
+Costa Rica,CRI,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,4.84177038877674
+Costa Rica,CRI,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,4.84177038718374
+Costa Rica,CRI,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,4.72652051773822
+Costa Rica,CRI,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,3.03538959317313
+Costa Rica,CRI,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,3.03538959317313
+Costa Rica,CRI,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,3.03546193741007
+Costa Rica,CRI,2019,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ,74
+Costa Rica,CRI,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.14007362099535
+Costa Rica,CRI,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.36671325934146
+Costa Rica,CRI,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.34422556033116
+Costa Rica,CRI,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.20205116303575
+Costa Rica,CRI,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.48382833722173
+Costa Rica,CRI,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.69977633154427
+Costa Rica,CRI,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.9143557868633
+Costa Rica,CRI,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.74911042900119
+Costa Rica,CRI,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.88788378974411
+Costa Rica,CRI,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.78335093302367
+Costa Rica,CRI,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.13084191435539
+Costa Rica,CRI,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.59987212217913
+Costa Rica,CRI,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.48518940826122
+Costa Rica,CRI,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.04962970058209
+Costa Rica,CRI,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.97696046912683
+Costa Rica,CRI,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.91531104348602
+Costa Rica,CRI,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.42982819692116
+Costa Rica,CRI,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.62223694626727
+Costa Rica,CRI,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.85240876800238
+Costa Rica,CRI,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.84007800871514
+Costa Rica,CRI,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.42775029018437
+Costa Rica,CRI,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.37953627007384
+Costa Rica,CRI,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.24882318734231
+Costa Rica,CRI,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.1096929661764
+Costa Rica,CRI,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.618968848322
+Costa Rica,CRI,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.5030913360301
+Costa Rica,CRI,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.1024964084453
+Costa Rica,CRI,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.7581274501947
+Costa Rica,CRI,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.3199679785456
+Costa Rica,CRI,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.8282300115977
+Costa Rica,CRI,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.9001491093974
+Costa Rica,CRI,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.9445569900871
+Costa Rica,CRI,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.78742116015
+Costa Rica,CRI,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.2203938525142
+Costa Rica,CRI,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.9486468341879
+Costa Rica,CRI,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.0706377528965
+Costa Rica,CRI,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.8977395912796
+Costa Rica,CRI,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.8666318377444
+Costa Rica,CRI,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.2079069559152
+Costa Rica,CRI,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.997463538364
+Costa Rica,CRI,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.4947189136394
+Costa Rica,CRI,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.0190514369806
+Costa Rica,CRI,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.804639136257
+Costa Rica,CRI,1979,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.5014049368836
+Costa Rica,CRI,1978,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.4137262893122
+Costa Rica,CRI,1977,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.8854801027979
+Costa Rica,CRI,1976,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.3761922265859
+Costa Rica,CRI,1975,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.3384788708953
+Costa Rica,CRI,1974,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.4193271595097
+Costa Rica,CRI,1973,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.2275051146628
+Costa Rica,CRI,1972,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.0942087197838
+Costa Rica,CRI,1971,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.4245489880012
+Costa Rica,CRI,1970,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.5197340032105
+Costa Rica,CRI,1969,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.1499651097207
+Costa Rica,CRI,1968,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.2781325858375
+Costa Rica,CRI,1967,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.2007591186526
+Costa Rica,CRI,1966,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.1811409001558
+Costa Rica,CRI,1965,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.5204264467137
+Costa Rica,CRI,1964,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.5690344693715
+Costa Rica,CRI,1963,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,24.4638946637807
+Costa Rica,CRI,1962,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,25.8268969024168
+Costa Rica,CRI,1961,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,25.8662417279319
+Costa Rica,CRI,1960,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.3520345148027
+Costa Rica,CRI,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.05157005786896
+Costa Rica,CRI,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04131996631622
+Costa Rica,CRI,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04136002063751
+Costa Rica,CRI,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04103004932404
+Costa Rica,CRI,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02941000461578
+Costa Rica,CRI,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01672005653381
+Costa Rica,CRI,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02211999893188
+Costa Rica,CRI,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02138996124268
+Costa Rica,CRI,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01006996631622
+Costa Rica,CRI,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00841999053955
+Costa Rica,CRI,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00734996795654
+Costa Rica,CRI,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00806999206543
+Costa Rica,CRI,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00672996044159
+Costa Rica,CRI,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00233995914459
+Costa Rica,CRI,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00516998767853
+Costa Rica,CRI,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0006400346756
+Costa Rica,CRI,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00100004673004
+Costa Rica,CRI,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.999319970607758
+Costa Rica,CRI,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00852000713348
+Costa Rica,CRI,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00060999393463
+Costa Rica,CRI,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00598001480103
+Costa Rica,CRI,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0093400478363
+Costa Rica,CRI,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01308000087738
+Costa Rica,CRI,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01406002044678
+Costa Rica,CRI,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00987994670868
+Costa Rica,CRI,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00748002529144
+Costa Rica,CRI,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00670003890991
+Costa Rica,CRI,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00123000144958
+Costa Rica,CRI,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00057005882263
+Costa Rica,CRI,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.994769990444183
+Costa Rica,CRI,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988430023193359
+Costa Rica,CRI,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.990700006484985
+Costa Rica,CRI,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.990719974040985
+Costa Rica,CRI,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.992470026016235
+Costa Rica,CRI,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997460007667542
+Costa Rica,CRI,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.996039986610413
+Costa Rica,CRI,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00542998313904
+Costa Rica,CRI,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01063001155853
+Costa Rica,CRI,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01059997081757
+Costa Rica,CRI,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01910996437073
+Costa Rica,CRI,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01733994483948
+Costa Rica,CRI,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01819002628326
+Costa Rica,CRI,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01529002189636
+Costa Rica,CRI,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01320004463196
+Costa Rica,CRI,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00880002975464
+Costa Rica,CRI,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01443004608154
+Costa Rica,CRI,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00935995578766
+Costa Rica,CRI,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00311005115509
+Costa Rica,CRI,1970,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.999390006065369
+Costa Rica,CRI,2021,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,99.0802307128906
+Costa Rica,CRI,2020,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.7528686523438
+Costa Rica,CRI,2019,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.4939422607422
+Costa Rica,CRI,2018,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.6204299926758
+Costa Rica,CRI,2017,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.1781234741211
+Costa Rica,CRI,2016,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.5781478881836
+Costa Rica,CRI,2015,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.0925064086914
+Costa Rica,CRI,2014,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.5372467041016
+Costa Rica,CRI,2013,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.9385681152344
+Costa Rica,CRI,2012,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.4712982177734
+Costa Rica,CRI,2011,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.2123107910156
+Costa Rica,CRI,2010,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.5047607421875
+Costa Rica,CRI,2009,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.6269912719727
+Costa Rica,CRI,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.259651184082
+Costa Rica,CRI,2007,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,91.2880630493164
+Costa Rica,CRI,2006,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,89.3703536987305
+Costa Rica,CRI,2005,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.5128021240234
+Costa Rica,CRI,2004,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.6945495605469
+Costa Rica,CRI,2002,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.2206497192383
+Costa Rica,CRI,2001,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,89.8168334960938
+Costa Rica,CRI,2000,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,88.6959381103516
+Costa Rica,CRI,1999,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,84.1167984008789
+Costa Rica,CRI,1996,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,81.5227432250977
+Costa Rica,CRI,1995,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,80.0786819458008
+Costa Rica,CRI,1994,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,81.4782409667969
+Costa Rica,CRI,1993,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,83.0468292236328
+Costa Rica,CRI,1992,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,81.118896484375
+Costa Rica,CRI,1991,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,78.5852737426758
+Costa Rica,CRI,1990,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,74.6537933349609
+Costa Rica,CRI,1989,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,75.4855499267578
+Costa Rica,CRI,1988,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,76.0207672119141
+Costa Rica,CRI,1987,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,75.5960388183594
+Costa Rica,CRI,1986,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,77.6874618530273
+Costa Rica,CRI,1985,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,76.0990982055664
+Costa Rica,CRI,1984,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,72.3876113891602
+Costa Rica,CRI,1983,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,79.4931869506836
+Costa Rica,CRI,1982,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,86.8039016723633
+Costa Rica,CRI,1981,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,87.0959701538086
+Costa Rica,CRI,1980,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,85.6952896118164
+Costa Rica,CRI,1979,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,83.7461090087891
+Costa Rica,CRI,1978,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,86.1062927246094
+Costa Rica,CRI,1977,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,89.025993347168
+Costa Rica,CRI,1976,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,81.7758178710938
+Costa Rica,CRI,1975,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,86.6657409667969
+Costa Rica,CRI,1974,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,89.0581283569336
+Costa Rica,CRI,1973,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,89.9824905395508
+Costa Rica,CRI,1972,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,85.5880889892578
+Costa Rica,CRI,1971,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,75.8680877685547
+Costa Rica,CRI,1970,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,75.6893005371094
+Costa Rica,CRI,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.6
+Costa Rica,CRI,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.9
+Costa Rica,CRI,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.2
+Costa Rica,CRI,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.4
+Costa Rica,CRI,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.7
+Costa Rica,CRI,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.9
+Costa Rica,CRI,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.1
+Costa Rica,CRI,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.3
+Costa Rica,CRI,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.6
+Costa Rica,CRI,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.9
+Costa Rica,CRI,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.2
+Costa Rica,CRI,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.5
+Costa Rica,CRI,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.7
+Costa Rica,CRI,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.9
+Costa Rica,CRI,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.1
+Costa Rica,CRI,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.2
+Costa Rica,CRI,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.3
+Costa Rica,CRI,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.5
+Costa Rica,CRI,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.8
+Costa Rica,CRI,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.1
+Costa Rica,CRI,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.6
+Costa Rica,CRI,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.1
+Costa Rica,CRI,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.6
+Costa Rica,CRI,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.1
+Costa Rica,CRI,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.5
+Costa Rica,CRI,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.7
+Costa Rica,CRI,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.9
+Costa Rica,CRI,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.1
+Costa Rica,CRI,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.4
+Costa Rica,CRI,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.7
+Costa Rica,CRI,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.2
+Costa Rica,CRI,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.9
+Costa Rica,CRI,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17.8
+Costa Rica,CRI,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.9
+Costa Rica,CRI,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.1
+Costa Rica,CRI,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,21.2
+Costa Rica,CRI,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22
+Costa Rica,CRI,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.5
+Costa Rica,CRI,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.7
+Costa Rica,CRI,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.9
+Costa Rica,CRI,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,23.4
+Costa Rica,CRI,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.4
+Costa Rica,CRI,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26.4
+Costa Rica,CRI,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,29.5
+Costa Rica,CRI,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,33.9
+Costa Rica,CRI,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,39.3
+Costa Rica,CRI,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,45.3
+Costa Rica,CRI,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,51.7
+Costa Rica,CRI,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,58.3
+Costa Rica,CRI,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,64.6
+Costa Rica,CRI,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,70.1
+Costa Rica,CRI,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,74.8
+Costa Rica,CRI,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,78.5
+Costa Rica,CRI,1968,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,81.9
+Costa Rica,CRI,1967,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,84.9
+Costa Rica,CRI,1966,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,87.7
+Costa Rica,CRI,1965,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,90.2
+Costa Rica,CRI,1964,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,92
+Costa Rica,CRI,1963,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,92.5
+Costa Rica,CRI,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,92.5
+Costa Rica,CRI,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,93.3
+Costa Rica,CRI,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,96
+Costa Rica,CRI,2018,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2.9
+Costa Rica,CRI,2008,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,0.9
+Costa Rica,CRI,1996,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,3.8
+Costa Rica,CRI,1994,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,1.9
+Costa Rica,CRI,1993,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2
+Costa Rica,CRI,1992,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2
+Costa Rica,CRI,1991,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2.2
+Costa Rica,CRI,1990,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2.5
+Costa Rica,CRI,1989,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2.4
+Costa Rica,CRI,2022,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.9
+Costa Rica,CRI,2021,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.2
+Costa Rica,CRI,2020,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.3
+Costa Rica,CRI,2019,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.1
+Costa Rica,CRI,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.5
+Costa Rica,CRI,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.2
+Costa Rica,CRI,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.3
+Costa Rica,CRI,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.6
+Costa Rica,CRI,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.5
+Costa Rica,CRI,2013,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.6
+Costa Rica,CRI,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.7
+Costa Rica,CRI,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.8
+Costa Rica,CRI,2010,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.5
+Costa Rica,CRI,2009,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.5
+Costa Rica,CRI,2008,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.4
+Costa Rica,CRI,2007,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.8
+Costa Rica,CRI,2006,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,3.3
+Costa Rica,CRI,2005,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,3.3
+Costa Rica,CRI,2004,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,4.7
+Costa Rica,CRI,2003,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,4.7
+Costa Rica,CRI,2002,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,4.7
+Costa Rica,CRI,2001,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,5.1
+Costa Rica,CRI,2000,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,6.9
+Costa Rica,CRI,1999,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,6.8
+Costa Rica,CRI,1998,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,5.2
+Costa Rica,CRI,1997,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,6.7
+Costa Rica,CRI,1996,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,8.2
+Costa Rica,CRI,1995,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,7.1
+Costa Rica,CRI,1994,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,7
+Costa Rica,CRI,1993,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,8.5
+Costa Rica,CRI,1992,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,9.9
+Costa Rica,CRI,1991,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,12.4
+Costa Rica,CRI,1990,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,10.4
+Costa Rica,CRI,1989,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,10.6
+Costa Rica,CRI,1986,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,13.9
+Costa Rica,CRI,1981,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,25.9
+Costa Rica,CRI,2022,Population growth (annual %),SP.POP.GROW,0.520031291578434
+Costa Rica,CRI,2021,Population growth (annual %),SP.POP.GROW,0.600406861056438
+Costa Rica,CRI,2020,Population growth (annual %),SP.POP.GROW,0.755771068349343
+Costa Rica,CRI,2019,Population growth (annual %),SP.POP.GROW,0.865128346659953
+Costa Rica,CRI,2018,Population growth (annual %),SP.POP.GROW,0.934615300864476
+Costa Rica,CRI,2017,Population growth (annual %),SP.POP.GROW,0.978713315995535
+Costa Rica,CRI,2016,Population growth (annual %),SP.POP.GROW,1.01547072688832
+Costa Rica,CRI,2015,Population growth (annual %),SP.POP.GROW,1.04634340433544
+Costa Rica,CRI,2014,Population growth (annual %),SP.POP.GROW,1.09494595424381
+Costa Rica,CRI,2013,Population growth (annual %),SP.POP.GROW,1.1532718484809
+Costa Rica,CRI,2012,Population growth (annual %),SP.POP.GROW,1.20358030533586
+Costa Rica,CRI,2011,Population growth (annual %),SP.POP.GROW,1.24002656207939
+Costa Rica,CRI,2010,Population growth (annual %),SP.POP.GROW,1.2873898093698
+Costa Rica,CRI,2009,Population growth (annual %),SP.POP.GROW,1.35039395502168
+Costa Rica,CRI,2008,Population growth (annual %),SP.POP.GROW,1.38455388597677
+Costa Rica,CRI,2007,Population growth (annual %),SP.POP.GROW,1.40273700394929
+Costa Rica,CRI,2006,Population growth (annual %),SP.POP.GROW,1.43284202712965
+Costa Rica,CRI,2005,Population growth (annual %),SP.POP.GROW,1.47252758666781
+Costa Rica,CRI,2004,Population growth (annual %),SP.POP.GROW,1.52086528848105
+Costa Rica,CRI,2003,Population growth (annual %),SP.POP.GROW,1.58793253810516
+Costa Rica,CRI,2002,Population growth (annual %),SP.POP.GROW,1.69774908835068
+Costa Rica,CRI,2001,Population growth (annual %),SP.POP.GROW,1.84330854695316
+Costa Rica,CRI,2000,Population growth (annual %),SP.POP.GROW,1.97358823214158
+Costa Rica,CRI,1999,Population growth (annual %),SP.POP.GROW,2.07208096201444
+Costa Rica,CRI,1998,Population growth (annual %),SP.POP.GROW,2.1691556368856
+Costa Rica,CRI,1997,Population growth (annual %),SP.POP.GROW,2.24971306873938
+Costa Rica,CRI,1996,Population growth (annual %),SP.POP.GROW,2.30683799579665
+Costa Rica,CRI,1995,Population growth (annual %),SP.POP.GROW,2.37065492148785
+Costa Rica,CRI,1994,Population growth (annual %),SP.POP.GROW,2.43045420119032
+Costa Rica,CRI,1993,Population growth (annual %),SP.POP.GROW,2.48055361450883
+Costa Rica,CRI,1992,Population growth (annual %),SP.POP.GROW,2.51561993414361
+Costa Rica,CRI,1991,Population growth (annual %),SP.POP.GROW,2.53734226281102
+Costa Rica,CRI,1990,Population growth (annual %),SP.POP.GROW,2.54138328976122
+Costa Rica,CRI,1989,Population growth (annual %),SP.POP.GROW,2.55060236009875
+Costa Rica,CRI,1988,Population growth (annual %),SP.POP.GROW,2.59431605634214
+Costa Rica,CRI,1987,Population growth (annual %),SP.POP.GROW,2.65920370774586
+Costa Rica,CRI,1986,Population growth (annual %),SP.POP.GROW,2.71886328639952
+Costa Rica,CRI,1985,Population growth (annual %),SP.POP.GROW,2.75319653423939
+Costa Rica,CRI,1984,Population growth (annual %),SP.POP.GROW,2.7703110963721
+Costa Rica,CRI,1983,Population growth (annual %),SP.POP.GROW,2.77410685602989
+Costa Rica,CRI,1982,Population growth (annual %),SP.POP.GROW,2.76028759661915
+Costa Rica,CRI,1981,Population growth (annual %),SP.POP.GROW,2.73856861732179
+Costa Rica,CRI,1980,Population growth (annual %),SP.POP.GROW,2.73110989940276
+Costa Rica,CRI,1979,Population growth (annual %),SP.POP.GROW,2.72041089468848
+Costa Rica,CRI,1978,Population growth (annual %),SP.POP.GROW,2.68554030631481
+Costa Rica,CRI,1977,Population growth (annual %),SP.POP.GROW,2.6445292256157
+Costa Rica,CRI,1976,Population growth (annual %),SP.POP.GROW,2.60303887566708
+Costa Rica,CRI,1975,Population growth (annual %),SP.POP.GROW,2.57155211691094
+Costa Rica,CRI,1974,Population growth (annual %),SP.POP.GROW,2.55830068574315
+Costa Rica,CRI,1973,Population growth (annual %),SP.POP.GROW,2.55958628696517
+Costa Rica,CRI,1972,Population growth (annual %),SP.POP.GROW,2.59328555465073
+Costa Rica,CRI,1971,Population growth (annual %),SP.POP.GROW,2.64767274255807
+Costa Rica,CRI,1970,Population growth (annual %),SP.POP.GROW,2.71636306038062
+Costa Rica,CRI,1969,Population growth (annual %),SP.POP.GROW,2.78686233527351
+Costa Rica,CRI,1968,Population growth (annual %),SP.POP.GROW,2.90403220393468
+Costa Rica,CRI,1967,Population growth (annual %),SP.POP.GROW,3.06170198844071
+Costa Rica,CRI,1966,Population growth (annual %),SP.POP.GROW,3.18586019855954
+Costa Rica,CRI,1965,Population growth (annual %),SP.POP.GROW,3.30308772209251
+Costa Rica,CRI,1964,Population growth (annual %),SP.POP.GROW,3.41185905780376
+Costa Rica,CRI,1963,Population growth (annual %),SP.POP.GROW,3.5044683593811
+Costa Rica,CRI,1962,Population growth (annual %),SP.POP.GROW,3.58081641449101
+Costa Rica,CRI,1961,Population growth (annual %),SP.POP.GROW,3.63482787677081
+Costa Rica,CRI,2022,"Population, total",SP.POP.TOTL,5180829
+Costa Rica,CRI,2021,"Population, total",SP.POP.TOTL,5153957
+Costa Rica,CRI,2020,"Population, total",SP.POP.TOTL,5123105
+Costa Rica,CRI,2019,"Population, total",SP.POP.TOTL,5084532
+Costa Rica,CRI,2018,"Population, total",SP.POP.TOTL,5040734
+Costa Rica,CRI,2017,"Population, total",SP.POP.TOTL,4993842
+Costa Rica,CRI,2016,"Population, total",SP.POP.TOTL,4945205
+Costa Rica,CRI,2015,"Population, total",SP.POP.TOTL,4895242
+Costa Rica,CRI,2014,"Population, total",SP.POP.TOTL,4844288
+Costa Rica,CRI,2013,"Population, total",SP.POP.TOTL,4791535
+Costa Rica,CRI,2012,"Population, total",SP.POP.TOTL,4736593
+Costa Rica,CRI,2011,"Population, total",SP.POP.TOTL,4679926
+Costa Rica,CRI,2010,"Population, total",SP.POP.TOTL,4622252
+Costa Rica,CRI,2009,"Population, total",SP.POP.TOTL,4563127
+Costa Rica,CRI,2008,"Population, total",SP.POP.TOTL,4501921
+Costa Rica,CRI,2007,"Population, total",SP.POP.TOTL,4440019
+Costa Rica,CRI,2006,"Population, total",SP.POP.TOTL,4378172
+Costa Rica,CRI,2005,"Population, total",SP.POP.TOTL,4315887
+Costa Rica,CRI,2004,"Population, total",SP.POP.TOTL,4252800
+Costa Rica,CRI,2003,"Population, total",SP.POP.TOTL,4188610
+Costa Rica,CRI,2002,"Population, total",SP.POP.TOTL,4122623
+Costa Rica,CRI,2001,"Population, total",SP.POP.TOTL,4053222
+Costa Rica,CRI,2000,"Population, total",SP.POP.TOTL,3979193
+Costa Rica,CRI,1999,"Population, total",SP.POP.TOTL,3901430
+Costa Rica,CRI,1998,"Population, total",SP.POP.TOTL,3821421
+Costa Rica,CRI,1997,"Population, total",SP.POP.TOTL,3739421
+Costa Rica,CRI,1996,"Population, total",SP.POP.TOTL,3656234
+Costa Rica,CRI,1995,"Population, total",SP.POP.TOTL,3572856
+Costa Rica,CRI,1994,"Population, total",SP.POP.TOTL,3489152
+Costa Rica,CRI,1993,"Population, total",SP.POP.TOTL,3405372
+Costa Rica,CRI,1992,"Population, total",SP.POP.TOTL,3321939
+Costa Rica,CRI,1991,"Population, total",SP.POP.TOTL,3239414
+Costa Rica,CRI,1990,"Population, total",SP.POP.TOTL,3158253
+Costa Rica,CRI,1989,"Population, total",SP.POP.TOTL,3079001
+Costa Rica,CRI,1988,"Population, total",SP.POP.TOTL,3001461
+Costa Rica,CRI,1987,"Population, total",SP.POP.TOTL,2924595
+Costa Rica,CRI,1986,"Population, total",SP.POP.TOTL,2847849
+Costa Rica,CRI,1985,"Population, total",SP.POP.TOTL,2771463
+Costa Rica,CRI,1984,"Population, total",SP.POP.TOTL,2696200
+Costa Rica,CRI,1983,"Population, total",SP.POP.TOTL,2622532
+Costa Rica,CRI,1982,"Population, total",SP.POP.TOTL,2550780
+Costa Rica,CRI,1981,"Population, total",SP.POP.TOTL,2481334
+Costa Rica,CRI,1980,"Population, total",SP.POP.TOTL,2414303
+Costa Rica,CRI,1979,"Population, total",SP.POP.TOTL,2349258
+Costa Rica,CRI,1978,"Population, total",SP.POP.TOTL,2286210
+Costa Rica,CRI,1977,"Population, total",SP.POP.TOTL,2225630
+Costa Rica,CRI,1976,"Population, total",SP.POP.TOTL,2167544
+Costa Rica,CRI,1975,"Population, total",SP.POP.TOTL,2111850
+Costa Rica,CRI,1974,"Population, total",SP.POP.TOTL,2058235
+Costa Rica,CRI,1973,"Population, total",SP.POP.TOTL,2006247
+Costa Rica,CRI,1972,"Population, total",SP.POP.TOTL,1955547
+Costa Rica,CRI,1971,"Population, total",SP.POP.TOTL,1905486
+Costa Rica,CRI,1970,"Population, total",SP.POP.TOTL,1855697
+Costa Rica,CRI,1969,"Population, total",SP.POP.TOTL,1805968
+Costa Rica,CRI,1968,"Population, total",SP.POP.TOTL,1756333
+Costa Rica,CRI,1967,"Population, total",SP.POP.TOTL,1706062
+Costa Rica,CRI,1966,"Population, total",SP.POP.TOTL,1654619
+Costa Rica,CRI,1965,"Population, total",SP.POP.TOTL,1602736
+Costa Rica,CRI,1964,"Population, total",SP.POP.TOTL,1550661
+Costa Rica,CRI,1963,"Population, total",SP.POP.TOTL,1498647
+Costa Rica,CRI,1962,"Population, total",SP.POP.TOTL,1447037
+Costa Rica,CRI,1961,"Population, total",SP.POP.TOTL,1396138
+Costa Rica,CRI,1960,"Population, total",SP.POP.TOTL,1346302
+Costa Rica,CRI,2022,Urban population growth (annual %),SP.URB.GROW,1.27494530689703
+Costa Rica,CRI,2021,Urban population growth (annual %),SP.URB.GROW,1.406834717935
+Costa Rica,CRI,2020,Urban population growth (annual %),SP.URB.GROW,1.61994452252788
+Costa Rica,CRI,2019,Urban population growth (annual %),SP.URB.GROW,1.7885179241658
+Costa Rica,CRI,2018,Urban population growth (annual %),SP.URB.GROW,1.92258852809582
+Costa Rica,CRI,2017,Urban population growth (annual %),SP.URB.GROW,2.03441484263971
+Costa Rica,CRI,2016,Urban population growth (annual %),SP.URB.GROW,2.14486547932902
+Costa Rica,CRI,2015,Urban population growth (annual %),SP.URB.GROW,2.25182742083291
+Costa Rica,CRI,2014,Urban population growth (annual %),SP.URB.GROW,2.38181583713982
+Costa Rica,CRI,2013,Urban population growth (annual %),SP.URB.GROW,2.52857305743448
+Costa Rica,CRI,2012,Urban population growth (annual %),SP.URB.GROW,2.6721437984372
+Costa Rica,CRI,2011,Urban population growth (annual %),SP.URB.GROW,2.80569049966737
+Costa Rica,CRI,2010,Urban population growth (annual %),SP.URB.GROW,2.91906924871365
+Costa Rica,CRI,2009,Urban population growth (annual %),SP.URB.GROW,3.04371801687519
+Costa Rica,CRI,2008,Urban population growth (annual %),SP.URB.GROW,3.15249014205758
+Costa Rica,CRI,2007,Urban population growth (annual %),SP.URB.GROW,3.23689250633054
+Costa Rica,CRI,2006,Urban population growth (annual %),SP.URB.GROW,3.33777279453659
+Costa Rica,CRI,2005,Urban population growth (annual %),SP.URB.GROW,3.44704913035542
+Costa Rica,CRI,2004,Urban population growth (annual %),SP.URB.GROW,3.57322919534328
+Costa Rica,CRI,2003,Urban population growth (annual %),SP.URB.GROW,3.71406087288222
+Costa Rica,CRI,2002,Urban population growth (annual %),SP.URB.GROW,3.89654118540643
+Costa Rica,CRI,2001,Urban population growth (annual %),SP.URB.GROW,4.11691818523769
+Costa Rica,CRI,2000,Urban population growth (annual %),SP.URB.GROW,3.50078660942677
+Costa Rica,CRI,1999,Urban population growth (annual %),SP.URB.GROW,3.61948433733578
+Costa Rica,CRI,1998,Urban population growth (annual %),SP.URB.GROW,3.74802546130654
+Costa Rica,CRI,1997,Urban population growth (annual %),SP.URB.GROW,3.85927100714895
+Costa Rica,CRI,1996,Urban population growth (annual %),SP.URB.GROW,3.95371138195316
+Costa Rica,CRI,1995,Urban population growth (annual %),SP.URB.GROW,4.04883767364336
+Costa Rica,CRI,1994,Urban population growth (annual %),SP.URB.GROW,4.14112106577785
+Costa Rica,CRI,1993,Urban population growth (annual %),SP.URB.GROW,4.22289274214783
+Costa Rica,CRI,1992,Urban population growth (annual %),SP.URB.GROW,4.29670756190458
+Costa Rica,CRI,1991,Urban population growth (annual %),SP.URB.GROW,4.34871732825108
+Costa Rica,CRI,1990,Urban population growth (annual %),SP.URB.GROW,4.38615708967956
+Costa Rica,CRI,1989,Urban population growth (annual %),SP.URB.GROW,4.42593110134541
+Costa Rica,CRI,1988,Urban population growth (annual %),SP.URB.GROW,4.50757723843099
+Costa Rica,CRI,1987,Urban population growth (annual %),SP.URB.GROW,4.60555704543483
+Costa Rica,CRI,1986,Urban population growth (annual %),SP.URB.GROW,4.69717916398346
+Costa Rica,CRI,1985,Urban population growth (annual %),SP.URB.GROW,4.76022549296833
+Costa Rica,CRI,1984,Urban population growth (annual %),SP.URB.GROW,3.6406719231805
+Costa Rica,CRI,1983,Urban population growth (annual %),SP.URB.GROW,3.57675262235681
+Costa Rica,CRI,1982,Urban population growth (annual %),SP.URB.GROW,3.56938365229253
+Costa Rica,CRI,1981,Urban population growth (annual %),SP.URB.GROW,3.54975250154207
+Costa Rica,CRI,1980,Urban population growth (annual %),SP.URB.GROW,3.55117599792109
+Costa Rica,CRI,1979,Urban population growth (annual %),SP.URB.GROW,3.54483709906557
+Costa Rica,CRI,1978,Urban population growth (annual %),SP.URB.GROW,3.51460020840646
+Costa Rica,CRI,1977,Urban population growth (annual %),SP.URB.GROW,3.47565167476291
+Costa Rica,CRI,1976,Urban population growth (annual %),SP.URB.GROW,3.44346030478477
+Costa Rica,CRI,1975,Urban population growth (annual %),SP.URB.GROW,3.41425018237246
+Costa Rica,CRI,1974,Urban population growth (annual %),SP.URB.GROW,3.40822523313171
+Costa Rica,CRI,1973,Urban population growth (annual %),SP.URB.GROW,4.01394814208779
+Costa Rica,CRI,1972,Urban population growth (annual %),SP.URB.GROW,4.16040531019395
+Costa Rica,CRI,1971,Urban population growth (annual %),SP.URB.GROW,4.22688641251226
+Costa Rica,CRI,1970,Urban population growth (annual %),SP.URB.GROW,4.31299641502607
+Costa Rica,CRI,1969,Urban population growth (annual %),SP.URB.GROW,4.39865205373176
+Costa Rica,CRI,1968,Urban population growth (annual %),SP.URB.GROW,4.53418411053769
+Costa Rica,CRI,1967,Urban population growth (annual %),SP.URB.GROW,4.70522389294625
+Costa Rica,CRI,1966,Urban population growth (annual %),SP.URB.GROW,4.84568122212073
+Costa Rica,CRI,1965,Urban population growth (annual %),SP.URB.GROW,4.97663480311213
+Costa Rica,CRI,1964,Urban population growth (annual %),SP.URB.GROW,5.10516634139509
+Costa Rica,CRI,1963,Urban population growth (annual %),SP.URB.GROW,4.08985625284513
+Costa Rica,CRI,1962,Urban population growth (annual %),SP.URB.GROW,3.79917538057888
+Costa Rica,CRI,1961,Urban population growth (annual %),SP.URB.GROW,3.85355865307382
+Costa Rica,CRI,2022,Urban population,SP.URB.TOTL,4250456
+Costa Rica,CRI,2021,Urban population,SP.URB.TOTL,4196609
+Costa Rica,CRI,2020,Urban population,SP.URB.TOTL,4137983
+Costa Rica,CRI,2019,Urban population,SP.URB.TOTL,4071490
+Costa Rica,CRI,2018,Urban population,SP.URB.TOTL,3999318
+Costa Rica,CRI,2017,Urban population,SP.URB.TOTL,3923162
+Costa Rica,CRI,2016,Urban population,SP.URB.TOTL,3844155
+Costa Rica,CRI,2015,Urban population,SP.URB.TOTL,3762581
+Costa Rica,CRI,2014,Urban population,SP.URB.TOTL,3678801
+Costa Rica,CRI,2013,Urban population,SP.URB.TOTL,3592214
+Costa Rica,CRI,2012,Urban population,SP.URB.TOTL,3502521
+Costa Rica,CRI,2011,Urban population,SP.URB.TOTL,3410168
+Costa Rica,CRI,2010,Urban population,SP.URB.TOTL,3315819
+Costa Rica,CRI,2009,Urban population,SP.URB.TOTL,3220427
+Costa Rica,CRI,2008,Urban population,SP.URB.TOTL,3123883
+Costa Rica,CRI,2007,Urban population,SP.URB.TOTL,3026939
+Costa Rica,CRI,2006,Urban population,SP.URB.TOTL,2930529
+Costa Rica,CRI,2005,Urban population,SP.URB.TOTL,2834329
+Costa Rica,CRI,2004,Urban population,SP.URB.TOTL,2738293
+Costa Rica,CRI,2003,Urban population,SP.URB.TOTL,2642175
+Costa Rica,CRI,2002,Urban population,SP.URB.TOTL,2545843
+Costa Rica,CRI,2001,Urban population,SP.URB.TOTL,2448551
+Costa Rica,CRI,2000,Urban population,SP.URB.TOTL,2349793
+Costa Rica,CRI,1999,Urban population,SP.URB.TOTL,2268955
+Costa Rica,CRI,1998,Urban population,SP.URB.TOTL,2188299
+Costa Rica,CRI,1997,Urban population,SP.URB.TOTL,2107799
+Costa Rica,CRI,1996,Urban population,SP.URB.TOTL,2028003
+Costa Rica,CRI,1995,Urban population,SP.URB.TOTL,1949386
+Costa Rica,CRI,1994,Urban population,SP.URB.TOTL,1872035
+Costa Rica,CRI,1993,Urban population,SP.URB.TOTL,1796095
+Costa Rica,CRI,1992,Urban population,SP.URB.TOTL,1721827
+Costa Rica,CRI,1991,Urban population,SP.URB.TOTL,1649412
+Costa Rica,CRI,1990,Urban population,SP.URB.TOTL,1579221
+Costa Rica,CRI,1989,Urban population,SP.URB.TOTL,1511451
+Costa Rica,CRI,1988,Urban population,SP.URB.TOTL,1446014
+Costa Rica,CRI,1987,Urban population,SP.URB.TOTL,1382281
+Costa Rica,CRI,1986,Urban population,SP.URB.TOTL,1320063
+Costa Rica,CRI,1985,Urban population,SP.URB.TOTL,1259491
+Costa Rica,CRI,1984,Urban population,SP.URB.TOTL,1200941
+Costa Rica,CRI,1983,Urban population,SP.URB.TOTL,1158005
+Costa Rica,CRI,1982,Urban population,SP.URB.TOTL,1117318
+Costa Rica,CRI,1981,Urban population,SP.URB.TOTL,1078140
+Costa Rica,CRI,1980,Urban population,SP.URB.TOTL,1040540
+Costa Rica,CRI,1979,Urban population,SP.URB.TOTL,1004237
+Costa Rica,CRI,1978,Urban population,SP.URB.TOTL,969262
+Costa Rica,CRI,1977,Urban population,SP.URB.TOTL,935788
+Costa Rica,CRI,1976,Urban population,SP.URB.TOTL,903822
+Costa Rica,CRI,1975,Urban population,SP.URB.TOTL,873229
+Costa Rica,CRI,1974,Urban population,SP.URB.TOTL,843918
+Costa Rica,CRI,1973,Urban population,SP.URB.TOTL,815640
+Costa Rica,CRI,1972,Urban population,SP.URB.TOTL,783549
+Costa Rica,CRI,1971,Urban population,SP.URB.TOTL,751619
+Costa Rica,CRI,1970,Urban population,SP.URB.TOTL,720511
+Costa Rica,CRI,1969,Urban population,SP.URB.TOTL,690096
+Costa Rica,CRI,1968,Urban population,SP.URB.TOTL,660399
+Costa Rica,CRI,1967,Urban population,SP.URB.TOTL,631124
+Costa Rica,CRI,1966,Urban population,SP.URB.TOTL,602116
+Costa Rica,CRI,1965,Urban population,SP.URB.TOTL,573635
+Costa Rica,CRI,1964,Urban population,SP.URB.TOTL,545786
+Costa Rica,CRI,1963,Urban population,SP.URB.TOTL,518622
+Costa Rica,CRI,1962,Urban population,SP.URB.TOTL,497839
+Costa Rica,CRI,1961,Urban population,SP.URB.TOTL,479280
+Costa Rica,CRI,1960,Urban population,SP.URB.TOTL,461162
+Costa Rica,CRI,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.042
+Costa Rica,CRI,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.425
+Costa Rica,CRI,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.771
+Costa Rica,CRI,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.076
+Costa Rica,CRI,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.34
+Costa Rica,CRI,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.56
+Costa Rica,CRI,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.735
+Costa Rica,CRI,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.862
+Costa Rica,CRI,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.941
+Costa Rica,CRI,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.97
+Costa Rica,CRI,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.946
+Costa Rica,CRI,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.868
+Costa Rica,CRI,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.736
+Costa Rica,CRI,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.575
+Costa Rica,CRI,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.39
+Costa Rica,CRI,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.174
+Costa Rica,CRI,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.935
+Costa Rica,CRI,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.672
+Costa Rica,CRI,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.388
+Costa Rica,CRI,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.08
+Costa Rica,CRI,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.753
+Costa Rica,CRI,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.41
+Costa Rica,CRI,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.052
+Costa Rica,CRI,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.157
+Costa Rica,CRI,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.264
+Costa Rica,CRI,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.367
+Costa Rica,CRI,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.467
+Costa Rica,CRI,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.561
+Costa Rica,CRI,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.653
+Costa Rica,CRI,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.743
+Costa Rica,CRI,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.832
+Costa Rica,CRI,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.917
+Costa Rica,CRI,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.003
+Costa Rica,CRI,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.089
+Costa Rica,CRI,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.177
+Costa Rica,CRI,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.264
+Costa Rica,CRI,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.353
+Costa Rica,CRI,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.445
+Costa Rica,CRI,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.542
+Costa Rica,CRI,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.156
+Costa Rica,CRI,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.803
+Costa Rica,CRI,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.45
+Costa Rica,CRI,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.099
+Costa Rica,CRI,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.747
+Costa Rica,CRI,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.396
+Costa Rica,CRI,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.046
+Costa Rica,CRI,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.698
+Costa Rica,CRI,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.349
+Costa Rica,CRI,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.002
+Costa Rica,CRI,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.655
+Costa Rica,CRI,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.068
+Costa Rica,CRI,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.445
+Costa Rica,CRI,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.827
+Costa Rica,CRI,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.212
+Costa Rica,CRI,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.601
+Costa Rica,CRI,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.993
+Costa Rica,CRI,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.39
+Costa Rica,CRI,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.791
+Costa Rica,CRI,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.197
+Costa Rica,CRI,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.606
+Costa Rica,CRI,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.404
+Costa Rica,CRI,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.329
+Costa Rica,CRI,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.254
